@@ -1,0 +1,192 @@
+<p><b>Note</b>: I've gotten a <a href="#up1">response</a> from one of the authors of the post.</p>
+<p>Google results for lock-free queue algorithms frequently point to <a href="http://www.cs.rochester.edu/u/scott/papers/1996_PODC_queues.pdf">Simple, Fast, and Practical Non-Blocking and Blocking Concurrent Queue Algorithms</a> (pdf), whose pseudocode is available <a href="https://www.cs.rochester.edu/research/synchronization/pseudocode/queues.html">online</a>. When I read the algorithm, I was surprised to discover a use-after-free bug not mentioned anywhere I could find!</p>
+<p>Essentially, the problem is that <b>Tail.ptr</b> can't be dereferenced without first loading <b>Tail</b>, and <b>dequeue</b> frees <b>Head.ptr</b>. If the the queue is empty at line E5, then <b>tail == Head</b> since when the queue is empty <b>Tail == Head</b>. If, on other threads, a single <b>enqueue</b> followed by a single <b>dequeue</b> occurs before line E6, then <b>tail.ptr</b> will be <b>free</b>d because <b>dequeue</b> <b>free</b>s <b>head.ptr</b>, <b>head == Head</b>, and <b>tail == Head</b>. Then line E6 will proceed to dereference it.</p>
+<p>I wanted to be sure I was reading this right, so I implemented the algorithm with one modification to <b>enqueue</b>: After loading <b>Tail</b> into <b>tail</b> at line E5, if a thread is marked as "slow" it first notifies a condition variable that it has loaded <b>tail</b> and then blocks on that condition variable. Using that modified implementation, the program consists of two threads. The first thread waits for a notification that the second has loaded <b>tail</b>, then proceeds to <b>enqueue</b> and <b>dequeue</b> an item, then notifies the second that it can continue, then joins with the second thread an exits. The second thread marks itself slow and <b>enqueue</b>s a single item and exits.</p>
+<p>Here's the whole program in C++11, with comments for anything deviating from a straightforward translation of the pseudocode. Lines which correspond to numbered lines in the pseudocode are also marked:</p>
+<p>[code language="cpp"]<br />
+#include &lt;condition_variable&gt;<br />
+#include &lt;mutex&gt;<br />
+#include &lt;atomic&gt;<br />
+#include &lt;thread&gt;</p>
+<p>// Am I the slow thread?<br />
+thread_local auto is_slow_thread = bool{false};</p>
+<p>// Is the slow thread waiting yet?<br />
+auto slow_thread_waiting = bool{false};</p>
+<p>// Has the node been freed yet?<br />
+auto node_freed = bool{false};</p>
+<p>// Used for inter-thread signalling<br />
+std::condition_variable cond{};<br />
+// Mutex for cond<br />
+std::mutex cond_mutex{};</p>
+<p>// Implementation of the Michael-Scott algorithm<br />
+template &lt;typename T&gt; class queue_t {<br />
+	struct node_t;<br />
+	// Explicitly aligned due to https://gcc.gnu.org/bugzilla/show_bug.cgi?id=65147: gcc should automatically align std::atomic&lt;pointer_t&gt; on 16-byte boundary but doesn't (until 5.1)<br />
+	struct alignas(16) pointer_t {<br />
+		node_t* ptr;<br />
+		unsigned int count;<br />
+		// A zero-initialized pointer_t<br />
+		// I'm pretty sure we don't actually need to initialize count to 0 here given how these are used, but it can't hurt.<br />
+		pointer_t() noexcept : ptr{nullptr}, count{0} {}<br />
+		// A pointer_t pointing to a specific node<br />
+		pointer_t(node_t* ptr) : ptr{ptr}, count{0} {}<br />
+		// A pointer_t pointing to a specific node with a specific count<br />
+		pointer_t(node_t* ptr, unsigned int count) : ptr{ptr}, count{count} {}<br />
+		// bitwise-compare two pointer_ts<br />
+		bool operator ==(const pointer_t &amp; other) const {<br />
+			return ptr == other.ptr &amp;&amp; count == other.count;<br />
+		}<br />
+	};<br />
+	struct node_t {<br />
+		T value;<br />
+		// We're going to do atomic ops on next<br />
+		std::atomic&lt;pointer_t&gt; next;<br />
+		// A dummy node, next is initialized with a zero-initialized ptr<br />
+		node_t() : next{pointer_t{}} {}<br />
+		// A node filled with a given value, next is initialized with a zero-initialized ptr<br />
+		node_t(T value) : value(value), next{pointer_t{}} {}<br />
+	};</p>
+<p>	// We're going to do atomic ops on Head<br />
+	std::atomic&lt;pointer_t&gt; Head;<br />
+	// We're going to do atomic ops on Tail<br />
+	std::atomic&lt;pointer_t&gt; Tail;</p>
+<p>public:<br />
+	queue_t() : Head{new node_t{}}, Tail{Head.load().ptr} {}</p>
+<p>	void enqueue(T value) {<br />
+		// Node is initialized in ctor, so three lines in one<br />
+		auto node = new node_t{value}; // E1, E2, E3<br />
+		decltype(Tail.load()) tail;<br />
+		while (true) { // E4<br />
+			tail = Tail.load(); // E5<br />
+			// If we're the slow thread, we wait until the node we just loaded is freed.<br />
+			if (is_slow_thread) {<br />
+				{<br />
+					std::lock_guard&lt;std::mutex&gt; lock{cond_mutex};<br />
+					slow_thread_waiting = true;<br />
+				}<br />
+				// Let the main thread know we're waiting<br />
+				cond.notify_one();<br />
+				auto lock = std::unique_lock&lt;std::mutex&gt;{cond_mutex};<br />
+				// Wait until the main thread tells us the node is freed.<br />
+				cond.wait(lock, []{ return node_freed; });<br />
+			}<br />
+			// Use-after-free here in slow thread!<br />
+			auto next = tail.ptr-&gt;next.load(); // E6<br />
+			if (tail == Tail.load()) { // E7<br />
+				if (!next.ptr) { // E8<br />
+					if (tail.ptr-&gt;next.compare_exchange_weak(next, pointer_t{node, next.count + 1})) { // E9<br />
+						break; // E10<br />
+					} // E11<br />
+				} else { // E12<br />
+					Tail.compare_exchange_weak(tail, pointer_t{next.ptr, tail.count + 1}); // E13<br />
+				} // E14<br />
+			} // E15<br />
+		} // E16</p>
+<p>		Tail.compare_exchange_weak(tail, pointer_t{node, tail.count + 1}); // E17<br />
+	}</p>
+<p>	bool dequeue(T* pvalue) {<br />
+		decltype(Head.load()) head;<br />
+		while (true) { // D1<br />
+			head = Head.load(); // D2<br />
+			auto tail = Tail.load(); // D3<br />
+			auto next = head.ptr-&gt;next.load(); // D4<br />
+			if (head == Head.load()) { // D5<br />
+				if (head.ptr == tail.ptr) { // D6<br />
+					if (!next.ptr) { // D7<br />
+						return false; // D8<br />
+					} // D9<br />
+					Tail.compare_exchange_weak(tail, pointer_t{next.ptr, tail.count + 1}); // D10<br />
+				} else { // D11<br />
+					*pvalue = next.ptr-&gt;value; // D12<br />
+					if (Head.compare_exchange_weak(head, pointer_t{next.ptr, head.count + 1})) { // D13<br />
+						break; // D14<br />
+					} // D15<br />
+				} // D16<br />
+			} // D17<br />
+		} // D18<br />
+		delete head.ptr; // D19<br />
+		return true; // D20<br />
+	}<br />
+};</p>
+<p>// Empty struct to fill our queue with<br />
+struct empty {};</p>
+<p>// Our queue<br />
+queue_t&lt;empty&gt; queue{};</p>
+<p>// The slow thread<br />
+void slow_thread() {<br />
+	// Set that we're the slow thread<br />
+	is_slow_thread = true;<br />
+	// Enqueue something<br />
+	queue.enqueue(empty{});<br />
+};</p>
+<p>// The main thread<br />
+int main() {<br />
+	// Launch the slow thread<br />
+	auto slow = std::thread{slow_thread};<br />
+	{<br />
+		auto lock = std::unique_lock&lt;std::mutex&gt;{cond_mutex};<br />
+		// Wait until the slow thread is waiting<br />
+		cond.wait(lock, []{ return slow_thread_waiting; });<br />
+	}<br />
+	// Enqueue something<br />
+	queue.enqueue(empty{});<br />
+	empty ref;<br />
+	// Dequeue something<br />
+	queue.dequeue(&amp;ref);<br />
+	{<br />
+		std::lock_guard&lt;std::mutex&gt; lock{cond_mutex};<br />
+		node_freed = true;<br />
+	}<br />
+	// Tell the slow thread we've freed the node<br />
+	cond.notify_one();<br />
+	// Wait for the slow thread to finish<br />
+	slow.join();<br />
+	return 0;<br />
+}</p>
+<p>[/code]</p>
+<p>I compiled this with gcc 4.8.4, using the following command line (the <b>-mcx16</b> is needed to do atomic ops on the >1 word <b>pointer_t</b>):</p>
+<p><code>g++ -std=c++11 michael-scott.cc -o michael-scott -mcx16 -lpthread -ggdb -O0</code></p>
+<p>Finally, using valgrind 3.10.1 (note the <b>Address 0x5c0b058 is 24 bytes inside a block of size 32 free'd</b>):</p>
+<p><samp><br />
+$ valgrind ./michael-scott<br />
+==12588== Memcheck, a memory error detector<br />
+==12588== Copyright (C) 2002-2013, and GNU GPL'd, by Julian Seward et al.<br />
+==12588== Using Valgrind-3.10.1 and LibVEX; rerun with -h for copyright info<br />
+==12588== Command: ./michael-scott<br />
+==12588==<br />
+==12588== Thread 2:<br />
+==12588== Invalid read of size 8<br />
+==12588==    at 0x401CEE: std::atomic<queue_t<empty>::pointer_t>::load(std::memory_order) const (atomic:209)<br />
+==12588==    by 0x4017B4: queue_t<empty>::enqueue(empty) (michael-scott.cc:76)<br />
+==12588==    by 0x4011BB: slow_thread() (michael-scott.cc:127)<br />
+==12588==    by 0x402EB8: void std::_Bind_simple<void (*())()>::_M_invoke<>(std::_Index_tuple<>) (functional:1732)<br />
+==12588==    by 0x402E12: std::_Bind_simple<void (*())()>::operator()() (functional:1720)<br />
+==12588==    by 0x402DAB: std::thread::_Impl<std::_Bind_simple<void (*())()> >::_M_run() (thread:115)<br />
+==12588==    by 0x50FF7AF: ??? (in /nix/store/6vz6baw7wc26bp2c2i2lpip1z9yvcw0c-gcc-4.8.4/lib/libstdc++.so.6.0.19)<br />
+==12588==    by 0x4E3A483: start_thread (in /nix/store/6k9z1sfl7kghmagwd205k3i81pbcw57s-glibc-2.21/lib/libpthread-2.21.so)<br />
+==12588==    by 0x595204C: clone (in /nix/store/6k9z1sfl7kghmagwd205k3i81pbcw57s-glibc-2.21/lib/libc-2.21.so)<br />
+==12588==  Address 0x5c0b058 is 24 bytes inside a block of size 32 free'd<br />
+==12588==    at 0x4C290B1: operator delete(void*) (in /nix/store/rgxnhg1wpqzvjslyzk47z3www5clfc0l-valgrind-3.10.1/lib/valgrind/vgpreload_memcheck-amd64-linux.so)<br />
+==12588==    by 0x401BE6: queue_t<empty>::dequeue(empty*) (michael-scott.cc:111)<br />
+==12588==    by 0x40123A: main (michael-scott.cc:143)<br />
+==12588==<br />
+==12588==<br />
+==12588== HEAP SUMMARY:<br />
+==12588==     in use at exit: 64 bytes in 2 blocks<br />
+==12588==   total heap usage: 5 allocs, 3 frees, 456 bytes allocated<br />
+==12588==<br />
+==12588== LEAK SUMMARY:<br />
+==12588==    definitely lost: 0 bytes in 0 blocks<br />
+==12588==    indirectly lost: 0 bytes in 0 blocks<br />
+==12588==      possibly lost: 0 bytes in 0 blocks<br />
+==12588==    still reachable: 64 bytes in 2 blocks<br />
+==12588==         suppressed: 0 bytes in 0 blocks<br />
+==12588== Rerun with --leak-check=full to see details of leaked memory<br />
+==12588==<br />
+==12588== For counts of detected and suppressed errors, rerun with: -v<br />
+==12588== ERROR SUMMARY: 2 errors from 1 contexts (suppressed: 1 from 1)<br />
+</samp></p>
+<p>So, there you have it: Don't use an unmodified Michael-Scott queue when doing manual memory management!</p>
+<p><b id="up1">Update 1</b></p>
+<p>I heard back from one of the authors of the paper. At the time of the paper, it was acknowledged that releasing memory for general use/back to the OS was still an open problem. The <b>free</b> in the algorithm is meant to represent a function putting the node back on to a locally-maintained special-use free list and not the partner to <b>malloc</b>. This is mentioned briefly in the paper ("We use Treiber’s simple and efficient non-blocking stack algorithm to implement a non-blocking free list."), but I didn't realize that implied the memory wouldn't be used for anything else. So under those circumstances, this algorithm works.</p>
+<p>He also pointed me to his more recent paper on <a href="http://web.cecs.pdx.edu/~walpole/class/cs510/papers/11.pdf">hazard pointers</a> (pdf), which provides a general means of truly releasing memory for general use in lock-free or even wait-free algorithms, and shows a modification of the Michael-Scott queue that's safe to use with general use memory allocation/deallocation.</p>
