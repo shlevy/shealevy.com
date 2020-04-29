@@ -5,14 +5,14 @@
 *** Nix store: path references
 *** Nix language: String context
 * Semantic meaning of string with context
+** Types of context
+*** Source
+*** Derivation output
+**** All derivation outputs
 ** Set of store path identifiers
 ** Meaning of string depends on validity of its context
 ** Attribute set name vs bash command
 ** Store paths are opaque pointers, contain very little useful information in their intrinsic structure!
-* Types of context
-** Source
-** Derivation output
-*** All derivation outputs
 * coercions
 ** Everything's a string eventually
 ** coerceMore
