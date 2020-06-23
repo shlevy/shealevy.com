@@ -16,6 +16,7 @@ let
     };
   }) (recurse base));
   modern-posts = [
+    { title = "Wrapping My Head Around Cubical Path Types"; path = "2020/04/29/wrapping-my-head-around-cubical-path-types"; file = ./cubical-path-typing-rules/post.html; }
     { title = "Understanding Nix's String Context"; path = "2018/08/05/understanding-nix's-string-context"; file = ./nix-string-context/post.html; }
   ];
   wp-posts-ordered = map (pubDate: wp-posts.${toString pubDate}) (builtins.sort (x: y: builtins.lessThan y x) (map ({ pubDate, ... }: pubDate) (builtins.attrValues wp-posts)));
