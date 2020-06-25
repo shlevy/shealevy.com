@@ -1,5 +1,5 @@
 languageCode = "en-us"
-baseURL = "shealevy.com/"
+baseURL = "https://shealevy.com/"
 copyright = "© 2020 Shea Levy"
 theme = "ugly"
 title = "Shea's site"
