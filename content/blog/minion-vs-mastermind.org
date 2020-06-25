@@ -1,0 +1,38 @@
+#+TITLE: Minion vs Mastermind
+#+DATE: 2020-06-25
+#+DISQUS: t
+#+SUMMARY: In my professional life as well as in various volunteer contexts, I've noticed (at least) two kinds of roles people can fall into. Understanding their dynamics can help both someone trying to recruit or manage others in a project and someone deciding whether to jump in or understanding their own role.
+
+In my professional life as well as in various volunteer contexts, I've noticed (at least) two kinds of roles people can fall into[fn:contextual]. Understanding their dynamics can help both someone trying to recruit or manage others in a project and someone deciding whether to jump in or understanding their own role.
+
+[fn:contextual] While some individuals definitely do tend toward one or the other, the same person can and often does change which they are for different projects, or even over time within the same project.
+
+* The Mastermind
+The mastermind is the owner, the driving force, behind some (sub)project. They may have a boss, they may get a lot of advice and heavily lean on others, but they take [[https://echelonfront.com/extreme-ownership/][extreme ownership]] on themselves, holding themselves ultimately accountable for the success or failure of their project.
+
+This kind of role is inherently open-ended and creative. "I did my best" or "I did what I was told" are not reasonable excuses to a mastermind, they must determine if their best or what they're told is good enough and figure something else out if not. A mastermind is often responsible for determining what a project even is about, what its goals and direction are, whether a team is needed and how it should be structured, etc. Successful ones are almost always genuinely passionate about their project (or grow to become such) and are not content with staying in a constrained scope.
+
+A mastermind can absolutely work within a hierarchy as well as collaboratively, but they will be ineffective under micromanagement or lack of appropriate autonomy. Of course, being a mastermind, that is no excuse; if organizational problems are getting in their way, they need to work around them, change the organization, disassociate from the organization, or yield the role.
+
+Masterminds are playing an [[https://simonsinek.com/the-infinite-game][infinite game]].
+* The Minion
+The minion, by contrast, has a more constrained role. They may work extremely hard, they may need to bring a lot of intelligence to bear, they may even work alone, but crucially they are operating within a framework they do not define and do not care to influence.
+
+The minion is a source of reliability and stability. They know what is being asked of them and, if experienced, know how to provide it. They can much more often work within a fixed time committment and have firm boundaries between the project and the rest of their life. While they may deeply care about the project, their own self-evaluation is tied up in whether they end the day with a job well done, even if full success doesn't materialize.
+
+The minion's main requirement from their organization is clarity and scope. If they know what their role does and does not entail and aren't literally blocked from doing it, they are much more flexible to organizational dysfunction. They often rely on a mastermind to identify when things have gone way off the rails, though if they are experienced at their craft they can often identify that themselves even if they don't plan to change it.
+
+Minions are playing a finite game.
+* Using the roles
+Whether you're identifying and choosing for yourself or for others in the team, keeping this distinction in mind can be crucial.
+
+There are projects I want to help succeed, that I think are crucially important, but I don't have the drive, skills, or resources to take ownership of. Finding[fn:encourage] someone else who does and offering myself as willing to take on a minion-style role can be a way for me to contribute without taking on more than I am willing. In particular, I find that mastermind roles, even if they take up less time or work, are *always* a bigger committment due to the open-ended responsibility.
+
+Then there are projects where I have a strong vision, or want to spend a lot of time growing, or am just inevitably going to take on the mantle of success whatever my formal role. In those cases, seeking and recognizing that I'm in a mastermind role can help keep me accountable and non-complacent and set expectations with others I'm collaborating with accordingly.
+
+And when delegating or seeking help, the distinction is useful as well. Sometimes I just need someone to put in some elbow grease, and adding another cook into the kitchen could actually be harmful. Other times I need to get some responsibility near-fully off my plate and I want to find someone I trust to take on full ownership[fn:abdicate]. Knowing which I need, and which are available, ensures I can get what I want.
+
+Some of my most amazing collaboration has been with someone in a minion role on that project, and some of the worst has been with masterminds. I myself intentionally switch depending on the project and my priorities. While by their nature the mastermind does have higher potential upside, I think we should recognize both as valuable roles with their place in successful projects.
+
+[fn:encourage] Or encouraging
+[fn:abdicate] Of course, if I'm a mastermind for the project I still need to keep tabs and ensure they're successful!
