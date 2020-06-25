@@ -5,3 +5,13 @@ command = "hugo --gc --minify"
 [context.production.environment]
 HUGO_VERSION = "0.73.0"
 HUGO_ENV = "production"
+
+[[redirects]]
+  from = "http://blog.shealevy.com/*"
+  to = "http://shealevy.com/blog/:splat"
+  force = true
+
+[[redirects]]
+  from = "https://blog.shealevy.com/*"
+  to = "https://shealevy.com/blog/:splat"
+  force = true
