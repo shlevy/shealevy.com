@@ -1,0 +1,16 @@
+languageCode = "en-us"
+baseURL = "https://shealevy.com/"
+copyright = "© 2020 Shea Levy"
+theme = "ugly"
+title = "Shea's site"
+disqusShortname = "shealevy"
+
+[permalinks]
+  blog = "/blog/:year/:month/:day/:title/"
+
+[params]
+  dateFormat = "Monday, January 2, 2006"
+  author = "Shea Levy"
+
+[author]
+  name = "Shea Levy"

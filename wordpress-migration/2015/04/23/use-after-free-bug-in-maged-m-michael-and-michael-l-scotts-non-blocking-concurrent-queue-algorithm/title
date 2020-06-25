@@ -1,1 +1,0 @@
-Use-after-free bug in Maged M. Michael and Michael L. Scott's non-blocking concurrent queue algorithm
