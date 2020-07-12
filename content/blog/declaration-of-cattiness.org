@@ -1,0 +1,29 @@
+#+TITLE: A Declaration of Cattiness
+#+DATE: 2020-07-12
+#+DISQUS: t
+#+SUMMARY: This weekend at my community's Independence day cookout, we held a declaration competition. This was my entry, in favor of gossip and drama.
+This weekend at my community's Independence day cookout, we held a declaration competition. This was my entry:
+
+When, in the course of communal events, it becomes necessary for one person to dissolve the bonds of courtesy which have kept the group civil with one another, and to assume among the peoples of the Coast[fn:Coast], the gossipy and cliquey attitude to which the laws of human nature incline them, a decent respect to the opinions of their fellows requires that they should declare the causes which impel them to nosy conversation.
+
+We hold these truths to be quite relevant, that most men are created communal, that they are endowed by their nature with certain social values, that among these are information, strategy, and the pursuit of judgment. That to secure these needs, private conversations are instituted among friends, deriving their just powers from the truth and relevance of the details. That whenever any form of social norm becomes destructive to those ends, it is right of the people to alter or abolish it, and to institute new norms, laying their foundation on such principles and organizing their expectations in such form, as to them shall seem most likely to effect their community's virtue and harmony. Prudence, indeed, will dictate that norms long established should not be changed for light and transient causes; and accordingly all experience hath shown that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed. But when long trains of communal blunders and blowups, deriving invariably from the same misguided application of the virtues of niceness and minding ones own business, plague them, it is their right, it is their duty, to throw off such norms, and to provide new guards for their future prosperity.
+
+Such has been the patient sufferance of this community and its siblings and predecessors; and such is now the necessity which constrains them to alter their former norms of civility. The history of modern nerdy communities is a history of repeated missed opportunities and ruined scenes, all having in direct cause a desire to avoid drama. To prove this let facts be submitted to a candid community.
+
+We have allowed bad actors to flourish in our midst, ranging from harshing the vibe to the vilest of physical abuses.
+
+We have lost our influence on the values and purpose of our groups, allowing many to dissolve into boring mediocrity.
+
+We have missed opportunities to learn more about our fellows and thereby to encourage and take advantage of their virtues while avoiding and diminishing their vices.
+
+We have let issues fester under the surface until they erupt in community-rending conflict.
+
+We have failed to strategically coordinate efforts toward positive community and individual ends.
+
+We have foregone chances to mutually calibrate judgments, nudge evaluations, and intimately bond with close friends and allies.
+
+We have forced our most socially skilled peers, those responsible for a vibrant community, to choose between overt defiance of our norms, disingenuously performing their function privately and likely feeling shame, or depriving us of their benefits altogether.
+
+I, therefore, a representative of myself, appealing to my reputation and reasoning for the rectitude of my intentions, do, in the name, and by the authority of myself, solemnly publish and declare, that this community and others like it of right ought to be a more dramatic and catty people; that they are absolved from all obligation to be in all things public, reserved, and cordial; and that as dramatic and catty people, they have full power to dish, matchmake, vent, praise, and to do all other acts and things which catty people may of right do. And for the support of this declaration, with a firm reliance on the correctness of my judgment and experience, I pledge to you all my honest useful assessment, my listening ear, and my understanding that you'll totally bitch about me to your friends after this speech.
+
+[fn:Coast] The [[https://freecoast.org/][Freecoast]], that is
