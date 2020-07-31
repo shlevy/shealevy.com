@@ -1,0 +1,13 @@
+#+TITLE: Phenomenological Glossary
+
+English terminology relating to conscious experience, whether colloquial or technical, is riddled with metaphor; conflates form, object, and cognition; and smuggles in (or openly trumpets) strong theories about the nature and purpose of the concepts' referents. This makes perfect sense in most contexts, but it makes it extremely challenging to communicate or even think clearly about the phenomena, especially if you're not ready to commit to any particular detailed theoretical stance. In an attempt to circumvent this, I am using a [[https://soybomb.com/tricks/words/][nonsense word generator]] to build up a descriptive glossary of concepts that I develop during my explorations. For now, this will remain unstructured other than the temporal order of when the term is coined; if I am successful I expect to develop a more rigorous taxonomy, including coalescing and subdividing where appropriate. For now I am erring on the side of excess, over time I expect to refine my standards for what gets a word.
+
+Term links point to the research notes where I first identify the term. Unless otherwise noted I have not made any attempt to generalize to others' experiences.
+
++ Commerel: The internal "modality" of "verbal" thought, reading, etc. Has many properties akin to audio.
++ Shtrush: A feeling of light "pressure" or "tension" that seems just dorsal to the xiphoid process, seemingly associated with what I would cognitively describe as "scanning for" some specific information when skimming text.
++ Antion: A sort of "pop"/focusing of attention associated with identifying a pattern during visual scan that may be relevant to the task at hand. Potentially the same phenomenon when generating approaches to solving a problem and one seems promising.
++ Bludion: The feeling associated with mentally distributing multiplication over addition. Has a "spatial" quality to it, in some sense "arcing" the multiplier over the parens to land on top of each addend.
++ Innity: A sense associated with thinking of a set of vectors as spanning a given subspace, a psuedo-visual horizontal arrangement that "accoridons" out to the full space when paired with a spanning set of a complementary subspace. Share some spatial qualities with bludion.
++ Counion: The mental operation of cancelling out terms in a linear formula, aspects of "collapsing" or "pushing together"
++ Prossion: The mental operation of substituting/cancelling commutative arrows in a diagram chase. Akin to counion in some sense.
