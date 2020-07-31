@@ -26,4 +26,6 @@ As is the nature of open exploration, I expect this approach may wildly change a
 
 * Following and participating
 
-If you're interested in following along with my progress, please subscribe to my mailing list where I send out regular updates of what I've been doing, what I've found, and where I'm going next. You can also subscribe to the RSS feed of my blog, either specifically the research log entries or all posts, to get a more up-to-the-minute but perhaps less helpfully structured view. If you want to join in the work in any capacity, please [[mailto:shea@shealevy.com][reach out]]!
+If you're interested in following along with my progress, please subscribe to my free[fn:free] mailing list where I send out regular updates of what I've been doing, what I've found, and where I'm going next. You can also subscribe to the RSS feed of my blog, either specifically the research log entries or all posts, to get a more up-to-the-minute but perhaps less helpfully structured view. If you want to join in the work in any capacity, please [[mailto:shea@shealevy.com][reach out]]!
+
+[fn:free] For now!
