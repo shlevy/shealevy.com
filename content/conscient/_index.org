@@ -18,9 +18,7 @@ I have direct access to an overwhelming abundance of information about my own ex
 
 I believe we need our [[https://en.wikipedia.org/wiki/Rudolphine_Tables][Rudolphine Tables]] before we attempt our [[https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica][Principia]], and as such am currently focused on extensive observation, phenomenological description, and cataloguing.
 
-My active project is an exploration of the conscious aspects of understanding. What does it feel like to /get/ something, how does that develop, what role does that play in leveraging that understanding for various practical ends? As an initial simple case, I am working my way through mathematical and scientific curricula, pointing ultimately toward a solid understanding of general relativity and the standard model, and observing what I experience as I learn, work through problems, etc. Right now I am reading [[http://linear.axler.net/][Linear Algebra Done Right]], most of whose topics I already know but a good starting point to get into a rhythm of simultaneously learning and observing myself learn.
-
-I keep a regular log of my research notes as a subset of my blog. I am also developing a [[glossary][glossary]] of etymology-free neologisms that I coin as I make my observations.
+My active project is an [[{{< relref "projects/understanding" >}}][exploration of the conscious aspects of understanding]]. I am also developing a [[{{< relref "glossary" >}}][glossary]] of etymology-free neologisms that I coin as I make my observations. I keep a regular log of my research notes as a subset of my blog.
 
 As is the nature of open exploration, I expect this approach may wildly change at any moment. I will keep an especially keen eye out for opportunities to get skin in the game by proving out an idea in practice and building a saleable product.
 

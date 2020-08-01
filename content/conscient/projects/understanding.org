@@ -1,0 +1,23 @@
+#+TITLE: The Phenomenology of Understanding
+
+What does it feel like to really /get/ something? How does that feeling develop and change as you learn? What role does that experience play in gaining and applying understanding to practical ends?
+
+This project is an observational exploration of these questions through the device of observing my experiences as I teach myself various mathematical and physical subjects. As I read, think, and work through problem sets, I am attending to what the subjective experience is like, with a particular focus on my feelings about some particular concept as I progress from complete ignorance to deep grokking. I am starting in a mode of almost unconstrained watching, but as I uncover structure I plan to become more experimental to dig into phenomena of interest.
+
+* Curriculum
+
+With the aid of [[https://mark-moon.github.io/][Mark Moon]], I'm developing and slowly working through a curriculum to get me from my current knowledge to a working understanding of the theory of general relativity and the standard model of particle physics. Though I am interested in those subjects for their own sake, this is primarily intended as a way to be able to predictably encounter subjects I don't understand and systematically gain understanding of them.
+
+1. Despite already knowing linear algebra, I am starting with [[http://linear.axler.net/][Linear Algebra Done Right]] to get back into a habit of academic learning, start building up the skill of observing myself as I learn, and refresh myself in preparation for the linear algebra-heavy subject of quantum mechanics.
+
+* Negative salience
+
+When I come across a topic I don't understand, there's an immediately salient feeling of "not getting it" that I can then explore to figure out what I'm missing and where I need to work. By contrast, when reading through material I already get, there doesn't seem to be an analogous feeling of "getting it"; it is instead marked by the /absence/ of the feeling of not understanding and a smooth undifferentiated flow as I progress. I suspect one major role of experience in understanding is directing attention to its lack, an idea dovetailing with developments in other fields such as the predictive processing model of cognition.
+
+* Symbolic manipulation
+
+I am noticing an abundance of interesting different experiences when performing the symbolic manipulations required to solve exercises, whether mentally or on paper. I hope to catalogue these and see if any interesting patterns fall out, especially as I make progress and the size of the "primitive" operations I know how to perform grows. So far the main insight has been that, while I don't strongly visualize when I'm thinking, there is a definite spatial component to how these manipulations feel.
+
+* "Subitizing" formulae
+
+When reading mathematical formulae, there is a sharp distinction between those that I can look at and just understand as a gestalt, vs those I have to explicitly work through and verbalize their meanings. As this understanding must develop over time, I hope to be able to "catch" the transition as it happens to see what it reveals. I suspect this is related to the phenomenon of being able to treat a large group of things as a unit when forming new concepts.
