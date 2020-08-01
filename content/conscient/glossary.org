@@ -4,10 +4,10 @@ English terminology relating to conscious experience, whether colloquial or tech
 
 Term links point to the research notes where I first identify the term. Unless otherwise noted I have not made any attempt to generalize to others' experiences.
 
-+ Commerel: The internal "modality" of "verbal" thought, reading, etc. Has many properties akin to audio.
-+ Shtrush: A feeling of light "pressure" or "tension" that seems just dorsal to the xiphoid process, seemingly associated with what I would cognitively describe as "scanning for" some specific information when skimming text.
-+ Antion: A sort of "pop"/focusing of attention associated with identifying a pattern during visual scan that may be relevant to the task at hand. Potentially the same phenomenon when generating approaches to solving a problem and one seems promising.
-+ Bludion: The feeling associated with mentally distributing multiplication over addition. Has a "spatial" quality to it, in some sense "arcing" the multiplier over the parens to land on top of each addend.
-+ Innity: A sense associated with thinking of a set of vectors as spanning a given subspace, a psuedo-visual horizontal arrangement that "accoridons" out to the full space when paired with a spanning set of a complementary subspace. Share some spatial qualities with bludion.
-+ Counion: The mental operation of cancelling out terms in a linear formula, aspects of "collapsing" or "pushing together"
-+ Prossion: The mental operation of substituting/cancelling commutative arrows in a diagram chase. Akin to counion in some sense.
++ [[{{< relref "/blog/announcing-conscient.org" >}}][Commerel]]: The internal "modality" of "verbal" thought, reading, etc. Has many properties akin to audio.
++ [[{{< relref "/blog/announcing-conscient.org" >}}][Shtrush]]: A feeling of light "pressure" or "tension" that seems just dorsal to the xiphoid process, seemingly associated with what I would cognitively describe as "scanning for" some specific information when skimming text.
++ [[{{< relref "/blog/announcing-conscient.org" >}}][Antion]]: A sort of "pop"/focusing of attention associated with identifying a pattern during visual scan that may be relevant to the task at hand. Potentially the same phenomenon when generating approaches to solving a problem and one seems promising.
++ [[{{< relref "/blog/announcing-conscient.org" >}}][Bludion]]: The feeling associated with mentally distributing multiplication over addition. Has a "spatial" quality to it, in some sense "arcing" the multiplier over the parens to land on top of each addend.
++ [[{{< relref "/blog/announcing-conscient.org" >}}][Innity]]: A sense associated with thinking of a set of vectors as spanning a given subspace, a psuedo-visual horizontal arrangement that "accoridons" out to the full space when paired with a spanning set of a complementary subspace. Share some spatial qualities with bludion.
++ [[{{< relref "/blog/announcing-conscient.org" >}}][Counion]]: The mental operation of cancelling out terms in a linear formula, aspects of "collapsing" or "pushing together"
++ [[{{< relref "/blog/announcing-conscient.org" >}}][Prossion]]: The mental operation of substituting/cancelling commutative arrows in a diagram chase. Akin to counion in some sense.
