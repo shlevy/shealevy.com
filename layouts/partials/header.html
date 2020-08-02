@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="{{ .Site.Params.author }}">
+    {{ hugo.Generator }}
+
+    {{- if .Description -}}
+    {{- .Scratch.Set "description" .Description -}}
+    {{- else if .IsPage -}}
+    {{- .Scratch.Set "description" .Summary -}}
+    {{- end }}
+    <meta name="description" content="{{ .Scratch.Get "description" }}">
+    {{ template "_internal/twitter_cards.html" . }}
+
+    {{ range .AlternativeOutputFormats -}}
+      {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
+
+    <link rel="canonical" href="{{ .Permalink }}">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+
+    {{ if (eq hugo.Environment "production") }}
+    <!-- Fathom - beautiful, simple website analytics -->
+    <script src="https://cdn.usefathom.com/script.js" site="KWJAVWQJ" defer></script>
+    <!-- / Fathom -->
+    {{ end }}
+
+    <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+  </head>
+  <body>

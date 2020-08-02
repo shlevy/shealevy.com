@@ -5,12 +5,10 @@
 {{ with .Content }}{{ . }}{{ end }}
 
 {{ range .Data.Pages }}
-<div>
   <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-  <div>
+  <p>
     {{ printf "%s" .Summary | safeHTML }}
-  </div>
-</div>
+  </p>
 {{ end }}
 
 {{ partial "footer.html" . }}

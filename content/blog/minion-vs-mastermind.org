@@ -1,6 +1,5 @@
 #+TITLE: Minion vs Mastermind
 #+DATE: 2020-06-25
-#+DISQUS: t
 #+SUMMARY: In my professional life as well as in various volunteer contexts, I've noticed (at least) two kinds of roles people can fall into. Understanding their dynamics can help both someone trying to recruit or manage others in a project and someone deciding whether to jump in or understanding their own role.
 
 In my professional life as well as in various volunteer contexts, I've noticed (at least) two kinds of roles people can fall into[fn:contextual]. Understanding their dynamics can help both someone trying to recruit or manage others in a project and someone deciding whether to jump in or understanding their own role.

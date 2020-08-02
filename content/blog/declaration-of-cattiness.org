@@ -1,6 +1,5 @@
 #+TITLE: A Declaration of Cattiness
 #+DATE: 2020-07-12
-#+DISQUS: t
 #+SUMMARY: This weekend at my community's Independence day cookout, we held a declaration competition. This was my entry, in favor of gossip and drama.
 This weekend at my community's Independence day cookout, we held a declaration competition. This was my entry:
 
