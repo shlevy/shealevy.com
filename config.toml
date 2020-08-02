@@ -4,6 +4,7 @@ copyright = "© 2020 Shea Levy"
 theme = "ugly"
 title = "Shea's site"
 disqusShortname = "shealevy"
+enableRobotsTXT = true
 
 [permalinks]
   blog = "/blog/:year/:month/:day/:title/"
