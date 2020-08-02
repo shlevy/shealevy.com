@@ -5,4 +5,4 @@ My main focus is [[{{< relref "/conscient/" >}}][ConSciEnt]], where I'm trying t
 
 I write longer-form sporadically on my [[{{< relref "/blog" >}}][blog]], and much shorter and less sporadically on [[https://twitter.com/shlevy][twitter]]. My username is ~shlevy~ on most sites.
 
-I live with my wife Alyssa and two sons, Colton and Ori, in Durham, NH. We're proud founding families and partners of [[https://freecoast.org/][the Freecoast]].
+I live with my wife and two sons in Durham, NH. We're a proud founding family and partners of [[https://freecoast.org/][the Freecoast]].
