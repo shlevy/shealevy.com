@@ -1,4 +1,6 @@
 #+TITLE: ConSciEnt
+#+CATEGORIES[]: ConSciEnt
+#+SUMMARY: ConSciEnt is my project to develop a naturalistic understanding of consciousness and leverage that to build world-changing technology.
 
 ConSciEnt[fn:name] is my project to develop a naturalistic understanding of consciousness and leverage that to build world-changing technology.
 
@@ -25,13 +27,13 @@ I have direct access to an overwhelming abundance of information about my own ex
 
 I believe we need our [[https://en.wikipedia.org/wiki/Rudolphine_Tables][Rudolphine Tables]] before we attempt our [[https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica][Principia]], and as such am currently focused on extensive observation, phenomenological description, and cataloguing.
 
-My active project is an [[{{< relref "projects/understanding" >}}][exploration of the conscious aspects of understanding]]. I am also developing a [[{{< relref "glossary" >}}][glossary]] of etymology-free neologisms that I coin as I make my observations. I keep a regular log of my research notes as a subset of my blog.
+My active project is an [[{{< relref "projects/understanding" >}}][exploration of the conscious aspects of understanding]]. I am also developing a [[{{< relref "glossary" >}}][glossary]] of etymology-free neologisms that I coin as I make my observations. As I go, I am keeping a regular [[{{< relref "research-notes" >}}][log of my raw research notes]].
 
 As is the nature of open exploration, I expect this approach may wildly change at any moment. I will keep an especially keen eye out for opportunities to get skin in the game by proving out an idea in practice and building a saleable product.
 
 * Following and participating
 
-If you're interested in following along with my progress, please subscribe below to my free[fn:free] mailing list where I send out regular updates of what I've been doing, what I've found, and where I'm going next. You can also subscribe to the RSS feed of my blog, either specifically the research log entries or all posts, to get a more up-to-the-minute but perhaps less helpfully structured view. If you want to join in the work in any capacity, please [[mailto:shea@shealevy.com][reach out]]!
+If you're interested in following along with my progress, please subscribe below to my free[fn:free] mailing list where I send out regular updates of what I've been doing, what I've found, and where I'm going next. You can also subscribe to [[{{< relref path="research-notes" outputFormat="rss" >}}][the RSS feed of my research notes]] or [[{{< relref path="/categories/ConSciEnt" outputFormat="rss" >}}][everything relating to ConSciEnt]] to get a more up-to-the-minute but perhaps less helpfully structured view. If you want to join in the work in any capacity or provide feedback, please [[mailto:shea@shealevy.com][reach out]]!
 
 {{< rawhtml >}}
 <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>

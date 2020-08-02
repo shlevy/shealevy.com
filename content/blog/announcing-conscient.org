@@ -1,6 +1,7 @@
 #+TITLE: Announcing ConSciEnt
 #+DATE: 2020-08-03
 #+DISQUS: t
+#+CATEGORIES[]: ConSciEnt
 
 Today I'm excited to go public with ConSciEnt, my research and development effort to gain a naturalistic exploitable understanding of consciousness!
 

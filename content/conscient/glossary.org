@@ -1,4 +1,6 @@
 #+TITLE: Phenomenological Glossary
+#+CATEGORIES[]: ConSciEnt
+#+SUMMARY: A descriptive glossary of etymology-free concepts relating to experience
 
 English terminology relating to conscious experience, whether colloquial or technical, is riddled with metaphor; conflates form, object, and cognition; and smuggles in (or openly trumpets) strong theories about the nature and purpose of the concepts' referents. This makes perfect sense in most contexts, but it makes it extremely challenging to communicate or even think clearly about the phenomena, especially if you're not ready to commit to any particular detailed theoretical stance. In an attempt to circumvent this, I am using a [[https://soybomb.com/tricks/words/][nonsense word generator]] to build up a descriptive glossary of concepts that I develop during my explorations. For now, this will remain unstructured other than the temporal order of when the term is coined; if I am successful I expect to develop a more rigorous taxonomy, including coalescing and subdividing where appropriate. For now I am erring on the side of excess, over time I expect to refine my standards for what gets a word.
 
