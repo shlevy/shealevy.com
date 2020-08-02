@@ -13,17 +13,7 @@ ConSciEnt[fn:name] is my project to develop a naturalistic understanding of cons
 {{< /rawhtml >}}
 
 
-[fn:name] From Consciousness Science Enterprises, pronounced like the English word conscient. I've hardly earned the "science" and have no relevant active "enterprises" to speak of, but I will.
-
-* Philosophy
-
-Consciousness consists of natural biological phenomena that are in principle knowable and exploitable by man.
-
-Unfortunately, the current mainstream scientific paradigm of mechanistic reduction is inadequate to the task, forcing everything to ultimately be explicable in terms of concepts like position, time, mass, etc. that are jointly incapable of even describing conscious experience, let alone including it as a causally relevant phenomenon. With a few important isolated exceptions, all approaches known to me that break out of that mold attempt to dissolve the problem by defining it away or treating it as outside of the realm of scientific inquiry altogether, jumping instead to ungrounded abstract theorizing or outright mysticism. A properly integrated understanding will require a conceptual revolution, but that has happened before within the sciences without abandoning naturalistic empirical inductive reasoning and can happen again.
-
-Consciousness is an evolved biological capability, and any explanations of its nature must ultimately be compatible with evolutionary processes. In particular, any hypotheses of causal intertness or fundamental illusion have an extremely high bar to clear to be considered plausible.
-
-I have direct access to an overwhelming abundance of information about my own experiences, and have ways of intentionally manipulating them. That is enough to incrementally learn about their nature, their causal interrelations, and how they relate to already well-understood natural phenomena. Given the centrality of experience to human flourishing, as my understanding grows there will be opportunities to apply it to practical use, providing both further tools for observation and experimentation and the ultimate proving ground of the correctness of my findings, not to mention financial and other resources to expand the work.
+[fn:name] From Consciousness Science Enterprises, pronounced like the English word conscient. I've hardly earned the "science" and have no relevant active "enterprises" to speak of. Yet.
 
 * Approach
 
@@ -31,7 +21,17 @@ I believe we need our [[https://en.wikipedia.org/wiki/Rudolphine_Tables][Rudolph
 
 My active project is an [[{{< relref "projects/understanding" >}}][exploration of the conscious aspects of understanding]]. I am also developing a [[{{< relref "glossary" >}}][glossary]] of etymology-free neologisms that I coin as I make my observations. As I go, I am keeping a regular [[{{< relref "research-notes" >}}][log of my raw research notes]].
 
-As is the nature of open exploration, I expect this approach may wildly change at any moment. I will keep an especially keen eye out for opportunities to get skin in the game by proving out an idea in practice and building a saleable product.
+As is the nature of open exploration, I expect this approach may wildly change at any moment. I will keep an especially keen eye out for opportunities to prove out an idea in practice and build a useful product, as well as promising candidates for causally relating aspects of experience to neurobiological phenomena.
+
+* Philosophy
+
+Consciousness consists of natural biological phenomena that are in principle knowable and exploitable by man.
+
+Unfortunately, the current mainstream scientific paradigm of mechanistic reduction is inadequate to the task, forcing everything to ultimately be explicable in terms of concepts like position, time, mass, etc. This set of concepts is incapable of even describing conscious experience, let alone including it as a causally relevant phenomenon. With a few important isolated exceptions, all approaches known to me that break out of that mold attempt to dissolve the problem by defining it away or treating it as outside of the realm of scientific inquiry altogether, jumping instead to ungrounded abstract theorizing or outright mysticism. A properly integrated understanding will require a conceptual revolution, but that has happened before within the sciences without abandoning the empirical inductive approach and can happen again.
+
+Consciousness is an evolved biological capability, and any explanations of its nature must ultimately be compatible with evolutionary processes. In particular, any hypotheses of causal intertness or fundamental illusion have an extremely high bar to clear to be considered plausible.
+
+I have direct access to an overwhelming abundance of information about my own experiences, and have ways of intentionally manipulating them. That is enough to incrementally learn about their nature, their causal interrelations, and how they relate to already well-understood natural phenomena. Given the centrality of experience to human flourishing, as my understanding grows there will be opportunities to apply it to practical use, providing both further tools for observation and experimentation and the ultimate proving ground of the correctness of my findings, not to mention financial and other resources to expand the work.
 
 * Following and participating
 
