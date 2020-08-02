@@ -1,6 +1,8 @@
 #+TITLE: ConSciEnt
 #+CATEGORIES[]: ConSciEnt
 #+SUMMARY: ConSciEnt is my project to develop a naturalistic understanding of consciousness and leverage that to build world-changing technology.
+#+DATE: 2020-07-30
+#+LASTMOD: 2020-08-02
 
 ConSciEnt[fn:name] is my project to develop a naturalistic understanding of consciousness and leverage that to build world-changing technology.
 

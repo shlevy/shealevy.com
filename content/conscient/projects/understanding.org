@@ -1,5 +1,7 @@
 #+TITLE: The Phenomenology of Understanding
 #+CATEGORIES[]: ConSciEnt
+#+LASTMOD: 2020-08-01
+#+DATE: 2020-08-01
 
 What does it feel like to really /get/ something? How does that feeling develop and change as you learn? What role does that experience play in gaining and applying understanding to practical ends?
 
