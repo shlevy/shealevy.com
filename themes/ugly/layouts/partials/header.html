@@ -42,7 +42,7 @@
     <link rel="canonical" href="{{ .Permalink }}">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
 
-    {{ if not .Site.IsServer }}
+    {{ if (eq hugo.Environment "production") }}
     <!-- Fathom - beautiful, simple website analytics -->
     <script src="https://cdn.usefathom.com/script.js" site="KWJAVWQJ" defer></script>
     <!-- / Fathom -->
