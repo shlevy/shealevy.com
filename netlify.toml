@@ -11,6 +11,9 @@
 [context.deploy-preview]
   command = "hugo --gc --buildFuture"
 
+[context.deploy-preview.environment]
+  HUGO_ENV = "deploy-preview"
+
 [[redirects]]
   from = "http://blog.shealevy.com/*"
   to = "http://shealevy.com/blog/:splat"
