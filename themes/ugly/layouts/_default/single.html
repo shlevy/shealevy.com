@@ -1,0 +1,37 @@
+{{ partial "header.html" . }}
+
+<div>
+  {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+  <div>
+    <span>
+      {{ if ne .Params.Lastmod .Params.Date }}
+      Last updated
+      {{ end }}
+      <time datetime="{{ $.Date }}">
+	{{ .Lastmod.Format .Site.Params.dateFormat }}
+      </time>
+    </span>
+
+    {{ if isset .Params "categories" }}
+    {{ partial "tagged_comma_list.html" (dict "tag" "categories" "list" .Params.categories) }}
+    {{ end }}
+
+    {{ if isset .Params "tags" }}
+    {{ partial "tagged_comma_list.html" (dict "tag" "tags" "list" .Params.tags) }}
+    {{ end }}
+  </div>
+
+  {{ if .Params.toc }}
+  <h1 id="toc">Table of Contents</h1>
+  {{ .TableOfContents }}
+  {{ end }}
+
+  {{ .Content }}
+
+  {{ if .Params.disqus }}
+  {{ template "_internal/disqus.html" . }}
+  {{ end }}
+
+</div>
+
+{{ partial "footer.html" . }}

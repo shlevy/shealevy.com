@@ -1,0 +1,10 @@
+{{ partial "header.html" . }}
+
+<div>
+  {{ with .Site.Params.error404 }}
+  <img src="{{ .src | relURL }}" alt="{{ .alt }}" title="{{ .title }}">
+  {{ end }}
+  <h1>404 Page Not Found</h1>
+</div>
+
+{{ partial "footer.html" . }}
