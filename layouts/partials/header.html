@@ -30,3 +30,14 @@
     <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
   </head>
   <body>
+    <header>
+      <nav>
+        <ol>
+          <li><a href="{{relref . "/" }}">Home</a></li>
+          <li><a href="{{relref . "/blog"}}">Blog</a></li>
+          <li><a href="{{relref . "/conscient"}}">ConSciEnt</a></li>
+        </ol>
+      </nav>
+      {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+    </header>
+    <main>

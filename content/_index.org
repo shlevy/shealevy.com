@@ -1,3 +1,4 @@
+#+TITLE: Shea's Home Page
 Hi, I'm Shea! Welcome to my personal website!
 
 My main focus is [[{{< relref "/conscient/" >}}][ConSciEnt]], where I'm trying to learn more about how consciousness works and use what I learn to make cool things.
