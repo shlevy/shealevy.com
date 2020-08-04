@@ -1,0 +1,23 @@
+#+TITLE: 2020-08-03
+#+DATE: 2020-08-03
+#+CATEGORIES[]: ConSciEnt
+#+SUMMARY: Notes from 2020-08-03
+
+Worked through Axler exercises in section 3.F, 1-27
+
+1. Scalar multiplication "expands" (*ejude*) along a "spatial" (*entation*) dimension.
+3. When looking for a linear map out of a finite dimensional space, psuedo-visually pair basis vector with desired result
+5. Mental sense of "type matching" (*direna*)
+   Mental proof of map linearity: A shifting/sliding "transition" between equivalent formulas
+   Vertical stacking for tuple addition, merge downwards
+7. Was going to use the "define a map by how it acts on a basis" trick, felt a sense of not being confident in _how_ that works. Felt "pressing blankness" in stomach (below xyphoid process, above navel) (*patrodola*).
+   Proving additivity mentally: Given two linear combinations of the same terms, one with constants a_{i} and the other with b_{i}, if adding them up yields a linear combination with (a_{i} + b_{i}), "slide" the bs down and over to the right entationally.
+   After re-proving the unique existence of a map based on how it acts on basis, felt a need to talk myself through the specifics as applied to the problem at hand... No more full on patrodola but still a vague "anxiety" to confirm understanding.
+   Seems like uncertainty stems from "non-constructive" assertion that the functional in question is in fact linear? Proving it helped the understanding.
+8. To prove linear independence, often treat each vector as symbolic-entational and identify one "component" symbol (e.g. x^{2} or (1, 0)) that is only present in one vector, showing that its coefficient must be 0 if the linear combination is, and then dropping that vector and iterating
+11. Felt uncertain about the definition of "rank"... Is it a lack of something? Fuzziness when mentally "pulling up" the page it's defined on?
+12. Extended sequence of symbolically progressing/"shifting" terms one into another (*valusing*). Needed to work to "recall" definitions at points, work to hold "current" state active if possible. Reach end, sometimes satisfied and sometimes retrace?
+    Increase "the crow"/workspace! Save on paper?
+19. When asserting a dual basis is a basis, possible patrodola (less pressing?)... Feeling seems associated with "lookup".
+20. Verbalizing definitions/suppositions, a sort of entational "scan" over implications
+22. Almost a commerelial "conversation" walking through the proof, possibly some monitoring for a sense of validity? (didn't make any errors so unsure)
