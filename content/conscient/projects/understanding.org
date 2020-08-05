@@ -1,4 +1,4 @@
-#+TITLE: The Phenomenology of Understanding
+#+TITLE: The Texture of Understanding
 #+CATEGORIES[]: ConSciEnt
 #+LASTMOD: 2020-08-02
 #+DATE: 2020-08-01
@@ -19,7 +19,7 @@ With the aid of [[https://mark-moon.github.io/][Mark Moon]], I'm developing and 
 
 ** Negative salience
 
-When I come across a topic I don't understand, there's an immediately salient feeling of "not getting it" that I can then explore to figure out what I'm missing and where I need to work. By contrast, when reading through material I already get, there doesn't seem to be an analogous feeling of "getting it"; it is instead marked by the /absence/ of the feeling of not understanding and a smooth undifferentiated flow as I progress. I suspect one major role of experience in understanding is directing attention to its lack, an idea dovetailing with developments in other fields such as the predictive processing model of cognition.
+When I come across a topic I don't understand, there's an immediately salient feeling of "not getting it" that I can then explore to figure out what I'm missing and where I need to work. By contrast, when reading through material I already get, there doesn't seem to be an analogous feeling of "getting it"; it is instead marked by the /absence/ of the feeling of not understanding and a smooth undifferentiated flow as I progress. I suspect one major role of experience in understanding is directing attention to its lack, an idea dovetailing with developments in other fields such as the [[https://en.wikipedia.org/wiki/Predictive_coding][predictive processing model of cognition]].
 
 ** Symbolic manipulation
 

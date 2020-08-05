@@ -10,7 +10,7 @@ Today I'm excited to go public with ConSciEnt, my R&D effort to understand consc
 
 What does it feel like to really /get/ something? How does that feeling develop and change as you learn? What role does that experience play in gaining and applying understanding practically?
 
-/The Texture of Understanding/ is an observational exploration of these questions. I'm approaching this by paying attention to my subjective experience as I work through a curriculum of mathematical and physical subjects designed to both reliably have me encounter new subjects I don't understand and to have a systematic way to gain that understanding. I put a particular focus on the development of my grasp from complete ignorance to deep grokking, and how those changes are reflected in how I approach solving problems with what I'm learning.
+/The Texture of Understanding/ is an observational exploration of these questions. I'm approaching this by paying attention to my subjective experience as I work through a curriculum of math and physics designed to both reliably have me encounter new subjects I don't understand and to have a systematic way to gain that understanding. I put a particular focus on the development of my grasp from complete ignorance to deep grokking, and how those changes are reflected in how I approach solving problems with what I'm learning.
 
 I've been working on this for a few weeks now, and already I've noticed some phenomena worth digging into. For example, confusion seems to manifest as a distinct salient sense while understanding is mostly marked by an /absence/ of that feeling, an observation that potentially dovetails nicely with e.g. the [[https://en.wikipedia.org/wiki/Predictive_coding][predictive processing model]].
 
