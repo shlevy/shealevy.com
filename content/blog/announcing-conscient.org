@@ -16,6 +16,6 @@ I've been working on this for a few weeks now, and already I've noticed some phe
 
 As part of the broader ConSciEnt work, I'll be regularly posting raw research notes on my site. I've also started a newsletter, which will include weekly updates on interesting findings, plans for what's next, and the occasional review of articles or books (check out the first issue! TODO link). Also as part of ConSciEnt, the project is subject to abandonment or radical upheaval if I see a better path to grasping how awareness works, especially if there's an opportunity to test my ideas on the proving ground of a practical marketable product! Regardless, the newsletter will be a way to keep up with the effort as a whole.
 
-Go check out the [[{{< relref "/conscient" >}}][ConSciEnt landing page]] to learn more! There you'll find more details about the /Understanding/ project, the raw research notes, and the glossary of phenomenological terms I'm developing. And don't forget to subscribe to the newsletter!
+Go check out the [[{{< relref "/conscient" >}}][ConSciEnt landing page]] to learn more! There you'll find more details about the /Understanding/ project, the raw research notes, and the glossary of phenomenological terms I'm developing, as well as some obligatory philosophical digressions. And don't forget to subscribe to the newsletter!
 
 {{< newsletter >}}
