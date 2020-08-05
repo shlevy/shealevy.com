@@ -19,3 +19,7 @@ nav ol{
 nav ol li{
     display: inline-block;
 }
+
+a {
+    color: #000;
+}
