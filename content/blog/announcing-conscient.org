@@ -1,17 +1,21 @@
-#+TITLE: Announcing ConSciEnt
-#+DATE: 2020-08-03
+#+TITLE: Announcing ConSciEnt and The Texture of Understanding
+#+DATE: 2020-08-10
 #+CATEGORIES[]: ConSciEnt
 
-Today I'm excited to go public with ConSciEnt, my research and development effort to gain a naturalistic exploitable understanding of consciousness!
+Today I'm excited to go public with ConSciEnt, my R&D effort to understand consciousness, through my first project: The Texture of Understanding!
 
 # more
 
-Those who know me well know that this is something I've been working toward in some form or other basically my entire life. Up until recently, though, that work has been relegated to sporadic efforts as a hobby or covering prerequisites. Now I've switched gears to make this my primary focus[fn:job], working on the research on a daily basis.
+{{< newsletter >}}
 
-What does that mean concretely? For now, I'm focusing on an observational exploration of the phenomenology of understanding. I'll be publishing raw research notes here on my site several times a week, and updating my phenomenological glossary and project pages as I go[fn:bootstrap]. I also have a new weekly newsletter, which will include high level summaries of what I've been doing in that week, projected plans for what's coming next, and occasional reviews of articles and books of interest.
+What does it feel like to really /get/ something? How does that feeling develop and change as you learn? What role does that experience play in gaining and applying understanding practically?
 
-Want to learn more? Go check out the [[{{< relref "/conscient" >}}][ConSciEnt landing page]], which has further links to project-specific information. And don't forget to subscribe to the newsletter!
+/The Texture of Understanding/ is an observational exploration of these questions. I'm approaching this by paying attention to my subjective experience as I work through a curriculum of mathematical and physical subjects designed to both reliably have me encounter new subjects I don't understand and to have a systematic way to gain that understanding. I put a particular focus on the development of my grasp from complete ignorance to deep grokking, and how those changes are reflected in how I approach solving problems with what I'm learning.
 
-[fn:job] I do still have a paying job that I work hard at, but I'm in maintenance mode with respect to my career progression.
+I've been working on this for a few weeks now, and already I've noticed some phenomena worth digging into. For example, confusion seems to manifest as a distinct salient sense while understanding is mostly marked by an /absence/ of that feeling, an observation that potentially dovetails nicely with e.g. the [[https://en.wikipedia.org/wiki/Predictive_coding][predictive processing model]].
 
-[fn:bootstrap] I've already populated the glossary and project pages with work done so far, though up until now I've not been as systematic as I plan to be
+As part of the broader ConSciEnt work, I'll be regularly posting raw research notes on my site. I've also started a newsletter, which will include weekly updates on interesting findings, plans for what's next, and the occasional review of articles or books (check out the first issue! TODO link). Also as part of ConSciEnt, the project is subject to abandonment or radical upheaval if I see a better path to grasping how awareness works, especially if there's an opportunity to test my ideas on the proving ground of a practical marketable product! Regardless, the newsletter will be a way to keep up with the effort as a whole.
+
+Go check out the [[{{< relref "/conscient" >}}][ConSciEnt landing page]] to learn more! There you'll find more details about the /Understanding/ project, the raw research notes, and the glossary of phenomenological terms I'm developing. And don't forget to subscribe to the newsletter!
+
+{{< newsletter >}}
