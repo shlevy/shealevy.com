@@ -23,6 +23,8 @@ I expect this approach may wildly change at any moment. I am especially interest
 
 If you're interested in following along with my progress, please subscribe below to my free[fn:free] newsletter where I send out updates every Friday on what I've been doing, what I've found, and where I'm going next. You can also subscribe to [[{{< relref path="research-notes" outputFormat="rss" >}}][the RSS feed of my research notes]] or [[{{< relref path="/categories/ConSciEnt" outputFormat="rss" >}}][everything relating to ConSciEnt]] to get a more up-to-the-minute but perhaps less helpfully structured view. If you want to join in the work in any capacity or provide feedback, please [[mailto:shea@shealevy.com][reach out]]!
 
+{{< newsletter >}}
+
 [fn:free] For now!
 
 * Philosophy
@@ -33,4 +35,4 @@ I have direct access to an overwhelming abundance of information about my own ex
 
 The name ConSciEnt (pronounced like the English word "conscient") comes from Consciousness Science Enterprises, aspirationally reflecting both the discovery and application oriented aspects of the approach.
 
-Unfortunately, the current mainstream scientific paradigm of mechanistic reduction, by forcing everything to ultimately be described in terms of concepts like position, time, mass, etc, gets in the way. This set of concepts is incapable of even describing conscious experience, let alone including it as a causally relevant phenomenon. With a few important exceptions, all approaches I now of that break out of that mold attempt to dissolve the problem by defining it away or treating it as outside of the realm of scientific inquiry altogether, jumping instead to ungrounded abstract theorizing or outright mysticism. A properly integrated understanding will require a conceptual revolution, but that has happened before within the sciences without abandoning the empirical inductive approach and it can happen again.
+Unfortunately, the current mainstream scientific paradigm of mechanistic reduction, by forcing everything to ultimately be described in terms of concepts like position, time, mass, etc, gets in the way. Without some new addition or modification, this set of concepts is incapable of even describing conscious experience, let alone including it as a causally relevant phenomenon. With a few important exceptions, all approaches I now of that break out of that mold attempt to dissolve the problem by defining it away or treating it as outside of the realm of scientific inquiry altogether, jumping instead to ungrounded abstract theorizing or outright mysticism. A properly integrated understanding will require a conceptual revolution, but that has happened before within the sciences without abandoning the empirical inductive approach and it can happen again.
