@@ -1,7 +1,7 @@
-#+TITLE: 2020-08-06
+#+TITLE: 2020-08-05 - 2020-08-06
 #+DATE: 2020-08-06
 #+CATEGORIES[]: ConSciEnt
-#+SUMMARY: Notes from 2020-08-06
+#+SUMMARY: Notes from 2020-08-05 and 2020-08-06
 Yesterday finished section 3.F exercises, and read through chapter 4 + exercises, today read through chapter 5A + exercises. Generally seems like diminishing returns given current mindset + working through material I already know, will need to adjust moving forward.
 
 - 32 :: Read through problem to get context, commerelial "hearing" of words. Noticed I had an expectation of the named bases being mentioned that went unfulfilled and so jumped down to the end to find them referenced.
