@@ -20,3 +20,4 @@ Term links point to the research notes where I first identify the term. Unless o
 + [[{{< relref "research-notes/2020-08-03" >}}][Direna]] :: The feeling associated with mental "type-directed" formula generation
 + [[{{< relref "research-notes/2020-08-03" >}}][Patrodola]] :: A feeling of "pressing blankness" associated with not really knowing how a particular technique works.
 + [[{{< relref "research-notes/2020-08-03" >}}][Valusing]] :: The entational action of terms "shifting"/"sliding" into other equivalent terms
++ [[{{< relref "research-notes/2020-08-10" >}}][Ordiation]] :: The "snippets" of some mental activity/experience that arise (often involuntarily) when reading through material with a general "seek to understand" mindset, not focused on a particular problem.
