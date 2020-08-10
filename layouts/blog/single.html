@@ -1,0 +1,24 @@
+{{ partial "header.html" . }}
+
+<span>
+  {{ if ne .Params.Lastmod .Params.Date }}
+  Last updated
+  {{ end }}
+  <time datetime="{{ $.Date }}">
+    {{ .Lastmod.Format .Site.Params.dateFormat }}
+  </time>
+</span>
+
+{{ if isset .Params "categories" }}
+{{ partial "tagged_comma_list.html" (dict "tag" "categories" "list" .Params.categories) }}
+{{ end }}
+
+{{ if isset .Params "tags" }}
+{{ partial "tagged_comma_list.html" (dict "tag" "tags" "list" .Params.tags) }}
+{{ end }}
+
+{{ .Content }}
+
+{{ template "_internal/disqus.html" . }}
+
+{{ partial "footer.html" . }}

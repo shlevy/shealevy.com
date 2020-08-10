@@ -1,0 +1,11 @@
+#+TITLE: 2020-08-05 - 2020-08-06
+#+DATE: 2020-08-06
+#+CATEGORIES[]: ConSciEnt
+#+SUMMARY: Notes from 2020-08-05 and 2020-08-06
+Yesterday finished section 3.F exercises, and read through chapter 4 + exercises, today read through chapter 5A + exercises. Generally seems like diminishing returns given current mindset + working through material I already know, will need to adjust moving forward.
+
+- 32 :: Read through problem to get context, commerelial "hearing" of words. Noticed I had an expectation of the named bases being mentioned that went unfulfilled and so jumped down to the end to find them referenced.
+        Was uncertain of row vs column definitions for M(T), best described as a "lack of confident answer". Patrodola but less pressing?
+- Chapter 4 :: When reading through intro matter, feels mostly like a commerelial conversation with no notable texture, but there's a sense in review of confidence that I "have" the context and there's nothing I missed. Absence of confusion?
+               Reading "division algorithm for polynomials" in chapter goals invoked an entational notion of complex conjugation to get a complex number out of the denominator.
+- Chapter 5 :: Seeing "invariant subspaces" in the chapter goals, I guessed that's refering to a subspace closed under some operator, but a definite feeling of "lack of referent" that seems to correspond with the fact that it was a guess, not an inference/conclusion or a memory.

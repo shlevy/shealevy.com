@@ -1,5 +1,4 @@
 #+TITLE: Understanding Nix's String Context
-#+DISQUS: t
 #+ALIASES[]: /blog/2018/08/05/understanding-nix's-string-context/
 #+DATE: 2018-08-05
 

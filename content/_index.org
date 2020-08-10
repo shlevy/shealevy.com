@@ -1,0 +1,8 @@
+#+TITLE: Shea's Home Page
+Hi, I'm Shea! Welcome to my personal website!
+
+My main focus is [[{{< relref "/conscient/" >}}][ConSciEnt]], where I'm trying to learn more about how consciousness works and use what I learn to make cool things. Right now I'm working on getting a handle on [[{{< relref "/conscient/projects/understanding.org" >}}][the texture of understanding]].
+
+I write longer-form sporadically on my [[{{< relref "/blog" >}}][blog]], and much shorter and less sporadically on [[https://twitter.com/shlevy][twitter]]. My username is ~shlevy~ on most sites.
+
+I live with my wife and two sons in Durham, NH. We're a proud founding family and partners of [[https://freecoast.org/][the Freecoast]].

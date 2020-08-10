@@ -1,0 +1,23 @@
+#+TITLE: Phenomenological Glossary
+#+CATEGORIES[]: ConSciEnt
+#+SUMMARY: A descriptive glossary of etymology-free concepts relating to experience
+#+DATE: 2020-07-31
+#+LASTMOD: 2020-07-31
+
+English terminology relating to conscious experience, whether colloquial or technical, is riddled with metaphor; conflates form, object, and cognition; and smuggles in (or openly trumpets) strong theories about the nature and purpose of the concepts' referents. This makes perfect sense in most contexts, but it makes it extremely challenging to communicate or even think clearly about the phenomena, especially if you're not ready to commit to any particular detailed theoretical stance. In an attempt to circumvent this, I am using a [[https://soybomb.com/tricks/words/][nonsense word generator]] to build up a descriptive glossary of concepts that I develop during my explorations. For now, this will remain unstructured other than the temporal order of when the term is coined; if I am successful I expect to develop a more rigorous taxonomy, including coalescing and subdividing where appropriate. For now I am erring on the side of excess, over time I expect to refine my standards for what gets a word.
+
+Term links point to the research notes where I first identify the term. Unless otherwise noted I have not made any attempt to generalize to others' experiences.
+
++ [[{{< relref "/blog/announcing-conscient.org" >}}][Commerel]] :: The internal "modality" of "verbal" thought, reading, etc. Has many properties akin to audio.
++ [[{{< relref "/blog/announcing-conscient.org" >}}][Shtrush]] :: A feeling of light "pressure" or "tension" that seems just dorsal to the xiphoid process, seemingly associated with what I would cognitively describe as "scanning for" some specific information when skimming text.
++ [[{{< relref "/blog/announcing-conscient.org" >}}][Antion]] :: A sort of "pop"/focusing of attention associated with identifying a pattern during visual scan that may be relevant to the task at hand. Potentially the same phenomenon when generating approaches to solving a problem and one seems promising.
++ [[{{< relref "/blog/announcing-conscient.org" >}}][Bludion]] :: The feeling associated with mentally distributing multiplication over addition. Has a "spatial" quality to it, in some sense "arcing" the multiplier over the parens to land on top of each addend.
++ [[{{< relref "/blog/announcing-conscient.org" >}}][Innity]] :: A sense associated with thinking of a set of vectors as spanning a given subspace, a psuedo-visual horizontal arrangement that "accoridons" out to the full space when paired with a spanning set of a complementary subspace. Share some spatial qualities with bludion.
++ [[{{< relref "/blog/announcing-conscient.org" >}}][Counion]] :: The mental operation of cancelling out terms in a linear formula, aspects of "collapsing" or "pushing together"
++ [[{{< relref "/blog/announcing-conscient.org" >}}][Prossion]] :: The mental operation of substituting/cancelling commutative arrows in a diagram chase. Akin to counion in some sense.
++ [[{{< relref "research-notes/2020-08-03" >}}][To ejude]] :: The mental action of a symbolic term "expanding" along a particular "spatial" "dimension"
++ [[{{< relref "research-notes/2020-08-03" >}}][Entation]] :: Psuedo-spatial internal modality
++ [[{{< relref "research-notes/2020-08-03" >}}][Direna]] :: The feeling associated with mental "type-directed" formula generation
++ [[{{< relref "research-notes/2020-08-03" >}}][Patrodola]] :: A feeling of "pressing blankness" associated with not really knowing how a particular technique works.
++ [[{{< relref "research-notes/2020-08-03" >}}][Valusing]] :: The entational action of terms "shifting"/"sliding" into other equivalent terms
++ [[{{< relref "research-notes/2020-08-10" >}}][Ordiation]] :: The "snippets" of some mental activity/experience that arise (often involuntarily) when reading through material with a general "seek to understand" mindset, not focused on a particular problem.

@@ -1,0 +1,13 @@
+#+TITLE: 2020-08-10
+#+DATE: 2020-08-10
+#+CATEGORIES[]: ConSciEnt
+#+SUMMARY: Notes from 2020-08-10
+
+Reviewed notes and skimmed through intro material in QFT in a nutshell, decided on a more high-level picture approach to the mathematical prerequisites so I have a sense of "where to look" down the road, focusing on a more "full" notion of understanding when I get to the physics. Read Axler 5.B-6.B.
+
+- 5.B ex 10 :: Reading to make sure I understood the exercise, had an entational polynomializing and valusing λ factors through.
+- 5.41 proof :: In paragraph starting "suppose (b) holds", read "invariant under T" and "summoned" a valusing of an eigenvalue out of T
+- 6A :: In verifying the linearity of x ↦ x · y, snippets of valusing over dot product definition and the result "looked" linear
+- 6.B 13 :: Experienced an entational array of v_{1}..v_{n} in reading problem statement.
+
+Coining *ordiation* for the "summoned" "snippets" of mental activity

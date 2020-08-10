@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+
+{{ with .Content }}{{ . }}{{ end }}
+
+{{ range .Data.Pages }}
+  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+  <p>
+    {{ printf "%s" .Summary | safeHTML }}
+  </p>
+{{ end }}
+
+{{ partial "footer.html" . }}

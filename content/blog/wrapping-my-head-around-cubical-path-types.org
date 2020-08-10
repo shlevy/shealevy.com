@@ -1,6 +1,5 @@
 #+TITLE: Wrapping My Head Around Cubical Path Types
 #+DATE: 2020-04-29
-#+DISQUS: t
 #+SUMMARY: Last weekend, annoyed yet again at a lack of proper quotient types, I decided to dig into cubical type theory. A weekend's reading and pondering does not an expert make, but I wanted to highlight some surprising structural ways in which these theories differ from previous type theories, which none of my sources noted.
 
 Last weekend, annoyed yet again at a lack of proper quotient types, I decided to dig into [[https://ncatlab.org/nlab/show/cubical+type+theory][cubical type theory]] (content warning: nlab). A weekend's reading and pondering does not an expert make, but I wanted to highlight some surprising structural ways in which these theories differ from previous type theories, which none of my sources noted[fn:obvious].

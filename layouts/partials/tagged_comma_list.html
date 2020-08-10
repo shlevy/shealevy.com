@@ -1,0 +1,11 @@
+{{- $listLen := len .list -}}
+{{- $tag := .tag -}}
+{{- if gt $listLen 0 -}}
+<span>
+  | {{ $tag | safeHTML }}:
+  {{ range $k, $v := .list }}
+  <a href="{{ printf "/%s/" $tag | relLangURL }}{{ . | urlize | lower }}">{{ . }}</a>
+  {{ if lt $k (sub $listLen 1) }}, {{ end }}
+  {{ end }}
+</span>
+{{ end }}
