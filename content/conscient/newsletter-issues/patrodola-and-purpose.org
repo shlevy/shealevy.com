@@ -29,7 +29,7 @@ Some notions of "understanding" that don't smoothly fit into the heavily purpose
 
 + Trying to dig out insights that are interesting/cool
 + Noticing causal relationships
-+ In a mathematical context, turning a formal definition (of terms already understood!) into a unit
++ In a mathematical context, turning a formal definition (in terms of concepts already understood!) into a unit
 + Being able to identify instances of the thing being explained
 
 Some possible general "semantics" to ascribe to patrodola:
@@ -39,7 +39,7 @@ Some possible general "semantics" to ascribe to patrodola:
 + What I'm doing/seeing matches some messy associative learned pattern, relating to "not enough" grasp on causal structure or being able to identifying instances or whatever.
 + I'm unable to find a place for the idea in the relevant conceptual context
 
-One possible application I'm keeping my eye on is in teaching; can people learn what it feels like to understand or not and fix misses earlier?
+One possible application I'm keeping my eye on is in teaching; can people learn what it feels like to understand or not and catch misses earlier?
 
 I'm keeping a running list of questions/ideas to keep in mind as I work. Next week, I'll start off by reviewing the quantum field theory textbook I have and work backwards to give me a more concrete goal to work toward as I go through the prerequisites. I'll be paying particular attention to the alternatives to the directly purpose-oriented view of understanding, and whether there are other experiences, especially those denoting *presence* of understanding, outside of patrodola or this framework.
 
