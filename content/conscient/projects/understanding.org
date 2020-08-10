@@ -21,9 +21,13 @@ With the aid of [[https://mark-moon.github.io/][Mark Moon]], I'm developing and 
 
 When I come across a topic I don't understand, there's an immediately salient feeling of "not getting it" that I can then explore to figure out what I'm missing and where I need to work. By contrast, when reading through material I already get, there doesn't seem to be an analogous feeling of "getting it"; it is instead marked by the /absence/ of the feeling of not understanding and a smooth undifferentiated flow as I progress. I suspect one major role of experience in understanding is directing attention to its lack, an idea dovetailing with developments in other fields such as the [[https://en.wikipedia.org/wiki/Predictive_coding][predictive processing model of cognition]].
 
+In some cases, the feeling of "not getting" something seems to be related to lack of (confident) knowledge of how concretely to proceed/address some problem. Is understanding fundamentally tied to a particular practical orientation?
+
 ** Symbolic manipulation
 
 I am noticing an abundance of interesting different experiences when performing the symbolic manipulations required to solve exercises, whether mentally or on paper. I hope to catalogue these and see if any interesting patterns fall out, especially as I make progress and the size of the "primitive" operations I know how to perform grows. So far the main insight has been that, while I don't strongly visualize when I'm thinking, there is a definite spatial component to how these manipulations feel.
+
+Does fluency in these techniques rise directly with understanding? Is that (part of) what understanding /is/?
 
 ** "Subitizing" formulae
 

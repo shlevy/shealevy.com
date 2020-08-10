@@ -1,0 +1,48 @@
+#+TITLE: Patrodola and Purpose
+#+CATEGORIES[]: ConSciEnt
+#+DATE: 2020-08-07
+#+SUMMARY: This week centered around coining and investigating "patrodola", exploring the landscape of mental mathematical operations, and teasing out the potential connections between them and a strongly purpose-oriented view of consciousness and learning.
+
+#+BEGIN_QUOTE
+Word of the week: Patrodola
+
+A feeling of "pressing blankness", localized in the stomach between the navel and xyphoid process.
+#+END_QUOTE
+
+This week centered around coining and investigating "patrodola", exploring the landscape of mental mathematical operations, and teasing out the potential connections between them and a strongly purpose-oriented view of consciousness and learning.
+
+I experienced patrodola of varying degrees when reading through sections I had trouble following or answering problems where I was unsure of the approach. My initial inclination was to describe it as trying and failing to "call up" some information, and while I think that's too metaphorical I do think it's right that the feeling is related to an inability to identify (or to confidently identify) what to do next. The degree of the feeling seemed to vary both with the "completeness" or "fullness" of the answer as well as my confidence in it.
+
+When I wasn't stuck on something, there was a rich variety of mental activities I engaged in to solve problems. Most of them happen in some combination of a psuedo-visual/spatial mental modality I'm calling "entation" and an auditory-like modality called "commerel". Of particular note were:
+
++ Valusing, "sliding" or "shifting" entationally experienced formulae from one equivalent form to another until a desired result is achieved. Some examples are shifting scalars or sums out of a linear operator, or spatially combining two terms that sum to zero to cancel them out.
++ Commerelial "conversation" that procedes from premises to conclusion through a chain of reasoning, with some sense of "checking" if the flow makes sense and "chunking up" sub-components of the demonstration to be used as units later on.
++ Laying out an algorithm, commerelial in high level structure but entational in individual manipulations, for constructing some entity of interest.
+
+When I was reading through non-exercise sections of the text, I occasionally would perform a vague "shadow"/"stub" version of some of these operations, with the sense that I was checking to see if I could.
+
+In speculation mode, I'm wondering now how much "understanding" is really about confidence in your capability to successfully complete some task using the information/concept at hand, which would suggest that perhaps patrodola is a subtype of noticing that you're not yet adequate to some goal. When seeking to understand, is there always some (perhaps implicit) end in mind? And once you do understand, does that free up your attention for other things while you work on the goal?
+
+More generally, is part of the role of consciousness supervising "fitness for purpose" at a high (arbitrary?) level? Is the feeling of "I am able to use this information to solve a typical problem set" the same as that of "the ball is in the right part of my visual field for me to catch it"?
+
+Some notions of "understanding" that don't smoothly fit into the heavily purpose-oriented perspective that I'd like to explore:
+
++ Trying to dig out insights that are interesting/cool
++ Noticing causal relationships
++ In a mathematical context, turning a formal definition (of terms already understood!) into a unit
++ Being able to identify instances of the thing being explained
+
+Some possible general "semantics" to ascribe to patrodola:
+
++ I don't know what to do for some problem
++ I'm not able to generate examples
++ What I'm doing/seeing matches some messy associative learned pattern, relating to "not enough" grasp on causal structure or being able to identifying instances or whatever.
++ I'm unable to find a place for the idea in the relevant conceptual context
+
+One possible application I'm keeping my eye on is in teaching; can people learn what it feels like to understand or not and fix misses earlier?
+
+I'm keeping a running list of questions/ideas to keep in mind as I work. Next week, I'll start off by reviewing the quantum field theory textbook I have and work backwards to give me a more concrete goal to work toward as I go through the prerequisites. I'll be paying particular attention to the alternatives to the directly purpose-oriented view of understanding, and whether there are other experiences, especially those denoting *presence* of understanding, outside of patrodola or this framework.
+
+In non-research news, I spent a decent chunk of time this week getting the website ready for the launch. Everything under /conscient, plus the home page and CSS, are all new. I also added [[usefathom.com][Fathom]] analytics, a privacy-oriented analytics platform, to see how people use the site.
+
+Know someone who might be interested in the work I'm doing here? Please forward on the newsletter or link them to the site! And if you have any feedback or suggestions, please don't hesitate to [[mailto:shea@shealevy.com][reach out]]!

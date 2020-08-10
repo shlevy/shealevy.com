@@ -66,7 +66,8 @@ I seem to have some notion of some kind of causal claim "making sense" or not, p
 Possible practical application/new experimental setting: Applying this notion to teaching others. Hone your ability to notice patrodola and fix it, systematically tackle different categories of understanding.
 * Questions/keep in mind
 + What dimensions/degrees of understanding are there?
-  + Different kinds?
+  + Different kinds? Single purpose vs generating purposes vs unknown purposes?
+  + Fullness of application vs confidence in correctness
 + Are there good non-mathematical concepts to drill into?
 
   Formal definitions being so central is peculiar to math. What is patrodola like elsewhere?
@@ -87,7 +88,6 @@ Possible practical application/new experimental setting: Applying this notion to
   Is it just part of the "the path I'm on doesn't need to be modified" gating?
 + What relation do these feelings have to "eureka" moments of insight?
   + Are those reliably generateable?
-+ Is there a more "positive" view on understanding, i.e. not just missing negatives?
 + Do different types of uses have different understanding-feelings involved?
 + Have some sense of something like "ready-to-hand" level competence... Attend to this?
 + Look out for causal claims and how I evaluate them

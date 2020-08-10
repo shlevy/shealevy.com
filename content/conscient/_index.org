@@ -21,7 +21,7 @@ I expect this approach may wildly change at any moment. I am especially interest
 
 * Following and participating
 
-If you're interested in following along with my progress, please subscribe below to my free[fn:free] newsletter where I send out updates every Friday on what I've been doing, what I've found, and where I'm going next. You can also subscribe to [[{{< relref path="research-notes" outputFormat="rss" >}}][the RSS feed of my research notes]] or [[{{< relref path="/categories/ConSciEnt" outputFormat="rss" >}}][everything relating to ConSciEnt]] to get a more up-to-the-minute but perhaps less helpfully structured view. If you want to join in the work in any capacity or provide feedback, please [[mailto:shea@shealevy.com][reach out]]!
+If you're interested in following along with my progress, please subscribe below to my free[fn:free] [[{{< relref "/newsletter-issues" >}}][newsletter]] where I send out updates every Friday on what I've been doing, what I've found, and where I'm going next. You can also subscribe to [[{{< relref path="research-notes" >}}][my research notes]] ([[{{< relref path="research-notes" outputFormat="rss" >}}][RSS]]) or [[{{< relref path="/categories/ConSciEnt" >}}][everything relating to ConSciEnt]] ([[{{< relref path="/categories/ConSciEnt" outputFormat="rss" >}}][RSS]]) to get a more up-to-the-minute but perhaps less helpfully structured view. If you want to join in the work in any capacity or provide feedback, please [[mailto:shea@shealevy.com][reach out]]!
 
 {{< newsletter >}}
 
