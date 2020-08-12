@@ -1,0 +1,19 @@
+#+TITLE: 2020-08-11
+#+DATE: 2020-08-11
+#+CATEGORIES[]: ConSciEnt
+#+SUMMARY: Notes from 2020-08-11
+
+Section 6.C - 7.A (except 7.A exercises) in Axler, particular focus on non-goal directed understanding and positive components.
+
+- 6.45 :: Read the definition of orthogonal complement, automatically mentally walked through proof that it's a subspace. There is a definite sense of "how things fit" together, an expectation about how certain kinds of concepts will behave.
+- 6.46 d :: Reading U ∩ U^{⊥} summoned a venn diagram-like entation. That the statement used ⊂ instead of = was was "notable"/"surprising", wanted to quickly walk myself through why.
+- 6.46 e :: Ordiated a barely coherent "demonstration", touched on some snippets of key points of the proof then sped on to the next until "satisfied". Possible domain of perceptual expertise, would I be able to notice that at all 3 weeks ago? What about 3 weeks from now?
+- 6.51 :: Filled in the statement of the proposition just from the name
+- 6.52/53 :: Attempted to distinguish unconfused understanding from other unconfused experience, felt a sort of "blankness" (different from patrodola!) when simply scanning around the room or reading a brand label on a bag, distinguished from a pressing "seeking" feeling in xyphoid (strush?) plus maybe some ongoing vague sense of "satisfaction" or "confirmation". Somewhat in between was pouring hot water out of the kettle, enjoyed watching the stream arc into the mug.
+- 6.54 :: Wasn't obvious how the 2nd term on the RHS fit into U^{⊥}, entationally dotted it with x and valused until satisfied
+- 6.55 :: Different "phases" of reading, first aimed at "what does the statement mean" then "why is it true"
+- 6.55 h :: A vague sense (not quite entational, something else?) of a notion of "one of those equalities from previous sections" being relevant to the proof here because v · w = 0, no sense which.
+- 6.55 :: I have some kind of feeling/sense of "what a projection is" apart from its formal definition (has some entational component of dropping a perpendicular from a point), sometimes that intuition seems satisfying as demonstrating a property of the formal definition, not just suggestive. But also paired with an occasional feeling (anxiety-like?) that might be verbalized "wait, no, not good enough" when relying on that. 
+- 6.55 e proof :: Noticed the proof itself didn't seem quite complete, rescanned and noticed I'd missed the "v ∈ U^{⊥}". I'd already accepted the proposition itself
+- 6.55 proofs :: Seem to have some kind of "correspondence" between my intution about project and aspects of the formalism. Some kind of shifting perspective?
+- 7.2 :: Early on in the reading, I had a feeling that I "got" the definitions being described but not a sense of "why I care", was seeking out something to fill that gap
