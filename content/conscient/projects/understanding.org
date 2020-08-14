@@ -1,6 +1,6 @@
 #+TITLE: The Texture of Understanding
 #+CATEGORIES[]: ConSciEnt
-#+LASTMOD: 2020-08-02
+#+LASTMOD: 2020-08-14
 #+DATE: 2020-08-01
 
 What does it feel like to really /get/ something? How does that feeling develop and change as you learn? What role does that experience play in gaining and applying understanding to practical ends?
@@ -19,16 +19,14 @@ With the aid of [[https://mark-moon.github.io/][Mark Moon]], I'm developing and 
 
 ** Negative salience
 
-When I come across a topic I don't understand, there's an immediately salient feeling of "not getting it" that I can then explore to figure out what I'm missing and where I need to work. By contrast, when reading through material I already get, there isn't as clearly a distinct feeling of "getting it"; it is instead marked by the /absence/ of the feeling of not understanding and a smooth positive-valence undifferentiated flow as I progress. I suspect one major role of experience in understanding is directing attention to its lack, an idea dovetailing with developments in other fields such as the [[https://en.wikipedia.org/wiki/Predictive_coding][predictive processing model of cognition]].
+When I come across a topic I don't understand, there's an immediately salient feeling of "not getting it" that I can then explore to figure out what I'm missing and where I need to work. I suspect one major role of experience in understanding is directing attention to its lack, an idea dovetailing with developments in other fields such as the [[https://en.wikipedia.org/wiki/Predictive_coding][predictive processing model of cognition]].
 
 In some cases, the feeling of "not getting" something seems to be related to lack of (confident) knowledge of how concretely to proceed/address some problem. Is understanding fundamentally tied to a particular practical orientation?
 
-** Symbolic manipulation
+** Mental operations
 
-I am noticing an abundance of interesting different experiences when performing the symbolic manipulations required to solve exercises, whether mentally or on paper. I hope to catalogue these and see if any interesting patterns fall out, especially as I make progress and the size of the "primitive" operations I know how to perform grows. So far the main insight has been that, while I don't strongly visualize when I'm thinking, there is a definite spatial component to how these manipulations feel.
+I am noticing an abundance of interesting different experiences when performing the various mental operations, particularly symbolic manipulations required to solve exercises and walking through proofs. I hope to catalogue these and see if any interesting patterns fall out, especially as I make progress and the size of the "primitive" operations I know how to perform grows. So far the main insight has been that, while I don't strongly visualize when I'm thinking, there is a definite spatial component to how symbolic manipulations feel, and a distinct modality for verbal thought.
+
+When I'm reading through new material, I sometimes perform little "snippets" of these operations related to what I'm reading, seemingly involuntarily. How does that relate to a growing understanding?
 
 Does fluency in these techniques rise directly with understanding? Is that (part of) what understanding /is/?
-
-** "Subitizing" formulae
-
-When reading mathematical formulae, there is a sharp distinction between those that I can look at and just understand as a gestalt, vs those I have to explicitly work through and verbalize their meanings. As this understanding must develop over time, I hope to be able to "catch" the transition as it happens to see what it reveals. I suspect this is related to the phenomenon of being able to treat a large group of things as a unit when forming new concepts.
