@@ -1,0 +1,26 @@
+#+TITLE: Crafting Context
+#+CATEGORIES[]: ConSciEnt
+#+DATE: 2020-08-14
+#+SUMMARY: After last week's focus on senses of not-understanding and a very concrete outcome-oriented conception of understanding, this week I looked for and found some suggestive texture to successful more general understanding.
+
+#+BEGIN_QUOTE
+Word of the week: Ordiation
+
+Incomplete "snippets" of mental activity that occur while reading to understand, apparently without voluntary effort. Can be in any mental modality, e.g. a flash of visualization or a few words of internal monologue.
+#+END_QUOTE
+
+After last week's focus on senses of not-understanding and a very concrete outcome-oriented conception of understanding, this week I looked for and found some suggestive texture to successful more general understanding.
+
+When reading through new material, I noticed that I frequently go through "snippets" of some mental activity relating to what I'm learning, almost "summoned" by the content. I might visualize part of some relevant formula, or internally verbalize part of a relevant sentence. This seemed involuntary and I could not tell if there were any signs of it coming/being needed before it happened. While these snippets did seem to add to a sense of being satisfied with my understanding, in a few cases when analyzing them in isolation they were almost completely incoherent, a single symbol or a few words "flashed" in rapid succession. I'm calling the snippets "ordiations".
+
+I ran a little experiment contrasting undirected observation of the room around me, reading a brand name on some household object, and reading to understand. While in all cases there was an absence of any feeling of not getting something or not knowing what to do next, there was some distinct sense of "satisfaction" and "fitting in" that came along with reading to understand. A few times I also found myself re-reading material despite not actively feeling lost, in one instance noticing a sense of something "sliding into place". Speculatively, it seems like I might be building up some running "context" or "state" as I'm reading, some stage where I try to fit in what I'm seeing and have associations and relationships between concepts "close at hand". I want to explore if ordiations are pieces of that context "leaking out" into explicit awareness, or possibly if they're a way for me to ensure some aspect of it makes sense/is right. There are some obvious analogies to the [[http://www.scholarpedia.org/article/Models_of_consciousness#Global_workspace_models][global workspace theory]] which I'm planning to dig into further.
+
+I also noticed at one point that I had two different notions of a particular concept ("projection") I was using in my understanding, one based on the formal definition and abstract mathematical concepts and one more concrete based on the more applied operations that inspired the abstraction in the first place. A few times ideas from the concrete form not only suggested approaches but were actually convincing in proofs, and as I worked through the section on projection I noticed myself building up correspondences between the notions. I will definitely be keeping an eye out for more examples of this!
+
+Reflecting on the work itself, this week really brought home just how more effort it takes to simultaneously seek to understand material and watch what I'm doing as I go. After a few nights of less sleep than usual (new baby!), I reached a point in my work session where I absolutely could not do anything more productive and felt like I probably needed a nap before doing anything else. I took a few minute break and decided to try working on other things, including starting my weekly research review and some computer programming, and was able to without any difficulty. I'm curious to see over time if the effort required goes down.
+
+I'm also definitely getting better at noticing details of my own experience. I don't think 3 weeks ago I would've noticed some of the faster ordiations, and I suspect in 3 weeks I could say more about what they contained. It seems that there is something akin to [[https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00857/full][perceptual expertise]] at play in introspection, perhaps over time I will develop some kind of training program to help develop it.
+
+Next week, I want to get deeper into the "context", see if I can make it explicit and what different components it has. I'd also like to get a better handle on when I ordiate, how involuntary it really is, and whether I can make a more explicit connection between ordiating and the background context. I'd also like to get a little bit more specific about the positive qualities of the experience, especially the sense of "satisfaction".
+
+How do you like the content of these newsletters? Is there something different you'd like to see? Anything specific you think I should look into? Any other feedback? Please [[mailto:shea@shealevy.com][let me know]]! And don't forget to forward this to your friends who might be interested!

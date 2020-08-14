@@ -2,6 +2,9 @@
 #+DATE: 2020-08-14
 #+CATEGORIES[]: ConSciEnt
 #+SUMMARY: Weekly review 2020-08-08 through 2020-08-14
+* Themes
++ Dynamically maintained cognitive context, and its relationship to ordiation
++ Shuttling between different perspectives
 * Observations
 + Ordiation is common when reading to understand
 + Ordiation is often incomplete/vague
@@ -11,10 +14,11 @@
 + Sought motivation for material I got but didn't know how to use
 + Notable distinction between thinking about projection in terms of an informal/natural understanding vs the formal mathematical definition
   + Building up a correspondence/relationship
++ Re-reading happened occasionally, without obvious sense of not understanding... Positive sense of something "sliding into place" in one instance when I was able to move on
 * Speculations
 + Am I building up some kind of "context" as I go? An accumulated state/perspective/stance?
 + Ordiation as possibly some of the implicit context "leaking" out, or possibly something that needs attention to ensure it's correct?
-+ Being able to act on knowledge part of holding the context together?
++ Being able to act on knowledge part of holding the context together? Or just some more general notion of usability?
 + Perceptual expertise seems at work
 + Possible relationship to global workspace theory?
 * Keep in mind
@@ -27,6 +31,7 @@
 + Voluntariness of ordiation? Does it "just happen"?
 + Does ordiation ever happen "in the background"?
 + Look for multiple perspectives in play, their relationships
++ Ordiation relationship to context
 * Action items
 + Predictive processing
 + Workspace theory
