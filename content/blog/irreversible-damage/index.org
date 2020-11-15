@@ -1,6 +1,9 @@
 #+TITLE: Irreversible Damage
 #+DATE: 2020-11-13
+#+LASTMOD: 2020-11-15
 #+SUMMARY: Some quick thoughts on Target's removal of Irreversible Damage from their assortment
+
+*See the [[#headline-1][update]] at the end of this post*
 
 (Disclaimer: I, obviously, do not speak for my employer)
 
@@ -33,3 +36,8 @@ Target should reconsider this decision. If the book never should have gotten pas
 [fn:side] From either "side".
 [fn:streisand] I probably will now, though!
 [fn:surprise] As an aside, she also is either a moron or disingenuous in implying (but not outright stating) that the upset her book caused was not priced in from day one
+
+* Update 2020-11-15
+[[./target-update.png]]
+
+Target has [[https://twitter.com/AskTarget/status/1327368417167478784][restored]] the book to their assortment based on the response to the removal. Appreciate that they referenced a specific reason to do so! I might hope for more but this is a good resolution all things considered.
