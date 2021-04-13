@@ -1,8 +1,0 @@
-#+TITLE: 2020-09-08
-#+DATE: 2020-09-08
-#+CATEGORIES[]: ConSciEnt
-#+SUMMARY: Notes from 2020-09-08
-
-Spending time working through examples "mechanically" with an expectation that end result will be enlightening
-
-Following parallels/duals between dependent and co-dependent cases

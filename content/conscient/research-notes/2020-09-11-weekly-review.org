@@ -1,6 +1,0 @@
-#+TITLE: 2020-09-11 Weekly Review
-#+DATE: 2020-09-11
-#+CATEGORIES[]: ConSciEnt
-#+SUMMARY: Weekly review 2020-09-05 through 2020-09-11
-
-Break it down, work mechanically through, and "come up for air" at the other end, can be an effective path.

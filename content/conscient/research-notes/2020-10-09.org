@@ -1,8 +1,0 @@
-#+TITLE: 2020-10-09
-#+DATE: 2020-10-09
-#+CATEGORIES[]: ConSciEnt
-#+SUMMARY: Notes from 2020-10-09
-
-+ Prove uniqueness of id, have a clear sense of what the algebraic solution looks like, graphical less so
-+ Translate proposition to symbolic form... comoposition order confusion
-+ Implicits seem to play some role?

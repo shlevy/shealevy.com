@@ -15,13 +15,13 @@ My current active project is /The Texture of Understanding/, where I'm studying 
 
 I am currently generally focused on extensive observation, phenomenological description and cataloguing; I believe we need our [[https://en.wikipedia.org/wiki/Rudolphine_Tables][Rudolphine Tables]] before we attempt our [[https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica][Principia]].
 
-As I work through my individual research projects, I am developing a [[{{< relref "glossary" >}}][glossary]] of etymology-free neologisms that I coin as I make my observations. I am also keeping a regular [[{{< relref "research-notes" >}}][log of my raw research notes]].
+As I work through my individual research projects, I am developing a [[{{< relref "glossary" >}}][glossary]] of etymology-free neologisms that I coin as I make my observations.
 
 I expect this approach may wildly change at any moment. I am especially interested in opportunities to prove out an idea in practice and build a useful product, as well as promising candidates for causally relating aspects of experience to neurobiology.
 
 * Following and participating
 
-If you're interested in following along with my progress, please subscribe below to my free[fn:free] [[{{< relref "/newsletter-issues" >}}][newsletter]] where I send out updates every Friday on what I've been doing, what I've found, and where I'm going next. You can also subscribe to [[{{< relref path="research-notes" >}}][my research notes]] ([[{{< relref path="research-notes" outputFormat="rss" >}}][RSS]]) or [[{{< relref path="/categories/ConSciEnt" >}}][everything relating to ConSciEnt]] ([[{{< relref path="/categories/ConSciEnt" outputFormat="rss" >}}][RSS]]) to get a more up-to-the-minute but perhaps less helpfully structured view. If you want to join in the work in any capacity or provide feedback, please [[mailto:shea@shealevy.com][reach out]]!
+If you're interested in following along with my progress, please subscribe below to my free[fn:free] [[{{< relref "/newsletter-issues" >}}][newsletter]] where I send out updates every Friday on what I've been doing, what I've found, and where I'm going next. You can also subscribe to [[{{< relref path="/categories/ConSciEnt" >}}][everything relating to ConSciEnt]] ([[{{< relref path="/categories/ConSciEnt" outputFormat="rss" >}}][RSS]]) to get a more up-to-the-minute but perhaps less helpfully structured view. If you want to join in the work in any capacity or provide feedback, please [[mailto:shea@shealevy.com][reach out]]!
 
 {{< newsletter >}}
 
