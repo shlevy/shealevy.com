@@ -15,8 +15,6 @@ My current active project is /The Texture of Understanding/, where I'm studying 
 
 I am currently generally focused on extensive observation, phenomenological description and cataloguing; I believe we need our [[https://en.wikipedia.org/wiki/Rudolphine_Tables][Rudolphine Tables]] before we attempt our [[https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica][Principia]].
 
-As I work through my individual research projects, I am developing a [[{{< relref "glossary" >}}][glossary]] of etymology-free neologisms that I coin as I make my observations.
-
 I expect this approach may wildly change at any moment. I am especially interested in opportunities to prove out an idea in practice and build a useful product, as well as promising candidates for causally relating aspects of experience to neurobiology.
 
 * Following and participating
