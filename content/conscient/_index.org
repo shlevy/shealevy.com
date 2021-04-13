@@ -1,9 +1,8 @@
 #+TITLE: ConSciEnt
 #+CATEGORIES[]: ConSciEnt
 #+SUMMARY: ConSciEnt is my R&D effort to understand consciousness and apply that understanding to build world-changing technology.
-#+SUMMARY: ConSciEnt is my project to develop a naturalistic understanding of consciousness and leverage that to build world-changing technology.
 #+DATE: 2020-07-30
-#+LASTMOD: 2020-08-05
+#+LASTMOD: 2021-04-13
 #+LAYOUT: single
 
 ConSciEnt is my R&D effort to understand consciousness and apply that understanding to build world-changing technology.
@@ -12,21 +11,19 @@ ConSciEnt is my R&D effort to understand consciousness and apply that understand
 
 My current active project is /The Texture of Understanding/, where I'm studying the subjective experience associated with having a solid grasp on something, or not, and how that changes as I learn. I'm working my way through a math and physics curriculum that will have me regularly coming up against things I don't understand at all and gradually gain that understanding, and observing my experiences as I go. For more detail and what I've found so far, check out the [[{{< relref "projects/understanding" >}}][project page]]!
 * Approach
-
 I am currently generally focused on extensive observation, phenomenological description and cataloguing; I believe we need our [[https://en.wikipedia.org/wiki/Rudolphine_Tables][Rudolphine Tables]] before we attempt our [[https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica][Principia]].
 
-I expect this approach may wildly change at any moment. I am especially interested in opportunities to prove out an idea in practice and build a useful product, as well as promising candidates for causally relating aspects of experience to neurobiology.
+I am always seeking opportunities to take a meaningful question or insight and turn it into a useful marketable product idea. While the primary goal is to learn more about the world, I believe that the requirements of building a tangible product can add an additional guide to objectivity in my research findings and will encourage timely focused work toward meaningful goals. If successful, this will also establish a virtuous circle of each discovery providing the resources to make the next.
 
+I expect this approach may change at any moment. I am especially interested in promising candidates for causally relating aspects of experience to neurobiology.
 * Following and participating
-
-If you're interested in following along with my progress, please subscribe below to my free[fn:free] [[{{< relref "/newsletter-issues" >}}][newsletter]] where I send out updates every Friday on what I've been doing, what I've found, and where I'm going next. You can also subscribe to [[{{< relref path="/categories/ConSciEnt" >}}][everything relating to ConSciEnt]] ([[{{< relref path="/categories/ConSciEnt" outputFormat="rss" >}}][RSS]]) to get a more up-to-the-minute but perhaps less helpfully structured view. If you want to join in the work in any capacity or provide feedback, please [[mailto:shea@shealevy.com][reach out]]!
+If you're interested in following along with my progress, please subscribe below to my free[fn:free] [[{{< relref "/newsletter-issues" >}}][newsletter]] where I send out occasional updates on the research and invite participation. You can also subscribe to [[{{< relref path="/categories/ConSciEnt" >}}][everything relating to ConSciEnt]] ([[{{< relref path="/categories/ConSciEnt" outputFormat="rss" >}}][RSS]]) to get a more up-to-the-minute but perhaps less helpfully structured view. If you want to join in the work in any capacity or provide feedback, please [[mailto:shea@shealevy.com][reach out]]!
 
 {{< newsletter >}}
 
 [fn:free] For now!
 
 * Philosophy
-
 Consciousness consists of natural biological phenomena that are in principle knowable and exploitable by man. It is an evolved biological capability, and any explanations of its nature must ultimately be compatible with evolutionary processes. In particular, any hypotheses suggesting it plays no causal role or some aspect is fundamentally illusory have an extremely high bar to clear to be considered plausible.
 
 I have direct access to an overwhelming abundance of information about my own experiences, and have ways of intentionally manipulating them. That is enough to incrementally learn about their nature, their causal interrelations, and how they relate to already well-understood natural phenomena. Given the centrality of experience to human flourishing, as my understanding grows there will be opportunities to apply it to practical use, providing both further tools for observation and experimentation and the ultimate proving ground of the correctness of my findings, not to mention financial and other resources to expand the work.
