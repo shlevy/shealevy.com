@@ -12,7 +12,7 @@ At this stage I am seeking breadth, so there are essentially no requirements to 
 * Other news
 It's been some time since my last update. A few notes on what I've been up to:
 
-- I have put the Texture of Understanding project on hold and have pivoted to the new [[{{< relref "../projects/vultolysis" >}}][Vultolysis] project. I've learned a lot from what I've done so far, but I think digging into volition will have a much greater chance of the kind of payoff I'm looking for if I'm successful.
+- I have put the Texture of Understanding project on hold and have pivoted to the new [[{{< relref "../projects/vultolysis" >}}][Vultolysis]] project. I've learned a lot from what I've done so far, but I think digging into volition will have a much greater chance of the kind of payoff I'm looking for if I'm successful.
 - I've made some minor adjustments to my website, including the [[{{< relref "../" >}}][ConSciEnt]] page. In particular, I have removed analytics for the time being.
 - I am adjusting my level of publicity about my work, both to avoid spoiling potential research participants and to preserve potential future trade secrets for products I may build. As a result, I have removed my research notes from the page and will be limiting my newsletter to more infrequent high level news posts, public analysis of the field, and any findings I've intentionally decided to publicize.
 
