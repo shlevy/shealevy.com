@@ -9,7 +9,7 @@ ConSciEnt is my R&D effort to understand consciousness and apply that understand
 
 {{< newsletter >}}
 
-My current active project is /The Texture of Understanding/, where I'm studying the subjective experience associated with having a solid grasp on something, or not, and how that changes as I learn. I'm working my way through a math and physics curriculum that will have me regularly coming up against things I don't understand at all and gradually gain that understanding, and observing my experiences as I go. For more detail and what I've found so far, check out the [[{{< relref "projects/understanding" >}}][project page]]!
+My current active project is /Vultolysis/, where I'm studying the nature of free will and how it works. For more detail, check out the [[{{< relref "projects/vultolysis" >}}][project page]].
 * Approach
 I am currently generally focused on extensive observation, phenomenological description and cataloguing; I believe we need our [[https://en.wikipedia.org/wiki/Rudolphine_Tables][Rudolphine Tables]] before we attempt our [[https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica][Principia]].
 
