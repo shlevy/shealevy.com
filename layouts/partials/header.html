@@ -22,9 +22,11 @@
     <link rel="stylesheet" href="/style.css">
 
     {{ if (eq hugo.Environment "production") }}
+    {{/*
     <!-- Fathom - beautiful, simple website analytics -->
     <script src="https://cdn.usefathom.com/script.js" site="KWJAVWQJ" defer></script>
     <!-- / Fathom -->
+    */}}
     {{ end }}
 
     <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
