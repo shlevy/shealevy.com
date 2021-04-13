@@ -11,4 +11,4 @@ But can we say anything more about volition itself? Can choices be analyzed into
 * Natural observation
 As a starting point, I am observing my own choices at play in the course of my other activities. When I think through a programming problem, or put away the dishes, what choices do I make? What are they based on? What do they feel like? Where in the body do I experience them? When am I choosing vs acting on automatic?
 
-I have reached a point in my observations where comparing my experiences with those of others could be very valuable. I will be sending out a call for study participants soon.
+I have reached a point in my observations where comparing my experiences with those of others could be very valuable. I am [[{{< relref "../newsletter-issues/volition-study" >}}][seeking participants]] to study this futher.
