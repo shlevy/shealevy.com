@@ -1,11 +1,11 @@
 #+TITLE: The Texture of Understanding
 #+CATEGORIES[]: ConSciEnt
-#+LASTMOD: 2020-08-14
+#+LASTMOD: 2021-04-13
 #+DATE: 2020-08-01
 
-What does it feel like to really /get/ something? How does that feeling develop and change as you learn? What role does that experience play in gaining and applying understanding to practical ends?
+Note: This project is currently on hold
 
-# more
+What does it feel like to really /get/ something? How does that feeling develop and change as you learn? What role does that experience play in gaining and applying understanding to practical ends?
 
 This project is an observational exploration of these questions through the device of observing my experiences as I teach myself various mathematical and physical subjects. As I read, think, and work through problem sets, I am attending to what the subjective experience is like, with a particular focus on my feelings about some particular concept as I progress from complete ignorance to deep grokking. I am starting in a mode of almost unconstrained watching, but as I uncover structure I plan to become more experimental to dig into phenomena of interest.
 

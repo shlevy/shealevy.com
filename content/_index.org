@@ -1,7 +1,10 @@
 #+TITLE: Shea's Home Page
+#+LASTMOD: 2021-04-13
 Hi, I'm Shea! Welcome to my personal website!
 
-My main focus is [[{{< relref "/conscient/" >}}][ConSciEnt]], where I'm trying to learn more about how consciousness works and use what I learn to make cool things. Right now I'm working on getting a handle on [[{{< relref "/conscient/projects/understanding.org" >}}][the texture of understanding]].
+I'm VP of Engineering at [[https://about.scarf.sh/][Scarf]], helping open source maintainers and their users connect for better software and better relationships.
+
+I am also working on [[{{< relref "/conscient/" >}}][ConSciEnt]], an effort to learn more about how consciousness works and see what I can build from what I learn. Right now I'm focused on understanding free will in my [[{{< relref "/conscient/projects/vultolysis.org" >}}][Vultolysis]] project.
 
 I write longer-form sporadically on my [[{{< relref "/blog" >}}][blog]], and much shorter and less sporadically on [[https://twitter.com/shlevy][twitter]]. My username is ~shlevy~ on most sites.
 
