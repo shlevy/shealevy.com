@@ -1,0 +1,10 @@
+#+TITLE: Nomia
+#+DATE: 2021-04-21
+
+Today marks a huge milestone in my software engineering career. In my role of VP of Engineering at Scarf, we've announced [[https://github.com/scarf-sh/nomia/][Nomia]]! In one form or another, I've been working on the ideas underlying Nomia since 2012, and a major part of my role at Scarf is to make it a reality.
+
+# more
+
+Nomia is a new system that revolutionizes how resources are identified, combined, and managed, inspired by systems like [[https://nixos.org/nix/][Nix]], [[https://www.unisonweb.org/][Unison]], and [[https://git-scm.com/][Git]].
+
+To learn more, go check out the [[https://github.com/scarf-sh/nomia/#readme][README]]! To understand more how it relates to the Nix ecosystem, I just posted an [[https://discourse.nixos.org/t/announcing-nomia-a-general-resource-manager-inspired-by-nix/12591][announcement]] there. To read more about how this fits into Scarf's mission, check out our [[https://about.scarf.sh/post/announcing-nomia-and-the-scarf-environment-manager][latest blog post]]!
