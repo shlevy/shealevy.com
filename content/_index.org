@@ -1,5 +1,7 @@
 #+TITLE: Shea's Home Page
-#+LASTMOD: 2021-04-13
+#+LASTMOD: 2024-05-08
+*Warning: This page is out of date (last substantial modification 2021-04-13). Check back later for more info*
+
 Hi, I'm Shea! Welcome to my personal website!
 
 I'm VP of Engineering at [[https://about.scarf.sh/][Scarf]], helping open source maintainers and their users connect for better software and better relationships. I'm the maintainainer for [[https://github.com/scarf-sh/nomia/][Nomia]], a system for precise, efficient resource management across every domain and resource type, which I currently develop as part of my role at Scarf.
