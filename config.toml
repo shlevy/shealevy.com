@@ -1,6 +1,6 @@
 languageCode = "en-us"
 baseURL = "https://shealevy.com/"
-copyright = "© 2020 Shea Levy"
+copyright = "© 2024 Shea Levy"
 title = "Shea's site"
 disqusShortname = "shealevy"
 enableRobotsTXT = true
