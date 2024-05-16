@@ -1,5 +1,8 @@
 #+TITLE: Broken Promises: The Nix Governance Discussions
 #+DATE: 2024-05-08
+#+LASTMOD: 2024-05-16
+
+*See the [[#headline-6][update]] at the end of this post*
 
 This post presupposes some level of familiarity with [[https://discourse.nixos.org/t/nixos-foundation-board-giving-power-to-the-community/44552][the ongoing work to establish new governance in the Nix project]]. If you don't know what's been going on, this is almost certainly not interesting to you.
 
@@ -79,3 +82,9 @@ Ultimately, I place the blame for this situation on the Foundation Board. It's t
 Whether they intended to or not, /in fact/ the Board has committed to this process being subject to the range of values and beliefs acceptable to the moderation team. They should've been forthright about it, but at the end of the day they are the closest thing Nix has to a legitimate authority and I think the governance system that results from this process, whatever its nature, will in fact be the legitimate arbiter of the common rivalrous resources of the Nix project. For those who are opposed to this fact about the process, I ask you to take this seriously: It is their process, and they have made the terms clear to those who care to see. If you continue to participate in the hopes of influencing a better outcome, do so with full consent to those terms; do not "demand" any changes, do not disrupt, do not troll. If you decide to disengage, disengage. Don't continue to snipe on the sidelines or scheme for a way to force a change, say your piece and then move on.
 
 As for myself, the latter is what I intend to do. If I am able to log back on at the end of my suspension, I will check a few DMs from private conversations that were interrupted by the ban and then deactivate my account. I will continue using the various Nix technologies (for the time being, at least), and make smaller contributions on GitHub where relevant, but will do my work in third-party spaces where possible and not get involved in the overall direction of the project or the official social spaces. If the governance changes radically, or a new project is started, I will consider joining. It's been 13 years as an active participant in the Nix project, and I'm sad it's come to this, but at the end of the day I can still use the tools I need and do the work I want to do.
+* Update: Response to the assembly appointment
+The assembly has been [[https://discourse.nixos.org/t/nixos-foundation-board-constitutional-assembly-appointment/45504][announced]]. For the reasons outlined above, and reinforced by the fact that 3 of the 7 members of the assembly are incumbent moderators, I will not be following or participating in the rest of the process. I will evaluate the final governance structure they come up with to determine if enough has changed to warrant reconsideration.
+
+While I welcome anyone operating in good faith to reach out to me[fn:where], I will not do anything that I think might be used to grant the process legitimacy or protect it from the consequences of its non-objective nature.
+
+[fn:where] Not on Zulip, though, as I've deactivated my unsuspended account there.
