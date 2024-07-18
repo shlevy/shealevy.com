@@ -1,4 +1,0 @@
-#+TITLE: ConSciEnt Newsletter Issues
-{{< newsletter >}}
-
-Below are past issues of my research updates newsletter. Subscribe above to get them as they come!

@@ -37,15 +37,7 @@
         <ol>
           <li><a href="{{relref . "/" }}">Home</a></li>
           <li><a href="{{relref . "/blog"}}">Blog</a></li>
-          <li><a href="{{relref . "/conscient"}}">ConSciEnt</a></li>
         </ol>
-        {{ if (eq .Section "conscient") }}
-        <ol>
-          <li><a href="{{relref . "/conscient/newsletter-issues"}}">Newsletter</a></li>
-          <li><a href="{{relref . "/conscient/projects/vultolysis.org" }}">Vultolysis</a></li>
-          <li><a href="{{relref . "/conscient/projects/understanding.org" }}">The Texture of Understanding</a></li>
-        </ol>
-        {{ end }}
       </nav>
       {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
     </header>

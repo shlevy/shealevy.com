@@ -1,12 +1,13 @@
 #+TITLE: Announcing ConSciEnt and The Texture of Understanding
 #+DATE: 2020-08-10
 #+CATEGORIES[]: ConSciEnt
+#+LASTMOD: 2024-07-18
+
+*Update 2024-07-18*: The ConSciEnt-specific pages of my site have been taken down for the time being, links have been removed
 
 Today I'm excited to go public with ConSciEnt, my R&D effort to understand consciousness, through my first project: The Texture of Understanding!
 
 # more
-
-{{< newsletter >}}
 
 What does it feel like to really /get/ something? How does that feeling develop and change as you learn? What role does that experience play in gaining and applying understanding practically?
 
@@ -14,8 +15,6 @@ What does it feel like to really /get/ something? How does that feeling develop 
 
 I've been working on this for a few weeks now, and already I've noticed some phenomena worth digging into. For example, confusion seems to manifest as a distinct salient sense while so far understanding is only clearly marked out by an /absence/ of that feeling, which seems potentially related to notions like the [[https://en.wikipedia.org/wiki/Predictive_coding][predictive processing model]]'s centering of prediction error.
 
-As part of the broader ConSciEnt work, I'll be regularly posting raw research notes on my site. I've also started a newsletter, which will include weekly updates on interesting findings, plans for what's next, and the occasional review of articles or books (check out the [[{{< relref "/conscient/newsletter-issues/patrodola-and-purpose" >}}][first issue]]!). Also as part of ConSciEnt, the project is subject to abandonment or radical upheaval if I see a better path to grasping how awareness works, especially if there's an opportunity to test my ideas on the proving ground of a practical marketable product! Regardless, the newsletter will be a way to keep up with the effort as a whole.
+As part of the broader ConSciEnt work, I'll be regularly posting raw research notes on my site. I've also started a newsletter, which will include weekly updates on interesting findings, plans for what's next, and the occasional review of articles or books (check out the first issue!). Also as part of ConSciEnt, the project is subject to abandonment or radical upheaval if I see a better path to grasping how awareness works, especially if there's an opportunity to test my ideas on the proving ground of a practical marketable product! Regardless, the newsletter will be a way to keep up with the effort as a whole.
 
-Go check out the [[{{< relref "/conscient" >}}][ConSciEnt landing page]] to learn more! There you'll find more details about the /Understanding/ project, the raw research notes, and the glossary of phenomenological terms I'm developing, as well as some obligatory philosophical digressions. And don't forget to subscribe to the newsletter!
-
-{{< newsletter >}}
+Go check out the ConSciEnt landing page to learn more! There you'll find more details about the /Understanding/ project, the raw research notes, and the glossary of phenomenological terms I'm developing, as well as some obligatory philosophical digressions. And don't forget to subscribe to the newsletter!

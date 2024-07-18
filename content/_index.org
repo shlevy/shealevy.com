@@ -1,13 +1,9 @@
 #+TITLE: Shea's Home Page
-#+LASTMOD: 2024-05-08
-*Warning: This page is out of date (last substantial modification 2021-04-13). Check back later for more info*
-
+#+LASTMOD: 2024-07-18
 Hi, I'm Shea! Welcome to my personal website!
 
-I'm VP of Engineering at [[https://about.scarf.sh/][Scarf]], helping open source maintainers and their users connect for better software and better relationships. I'm the maintainainer for [[https://github.com/scarf-sh/nomia/][Nomia]], a system for precise, efficient resource management across every domain and resource type, which I currently develop as part of my role at Scarf.
-
-I am also working on [[{{< relref "/conscient/" >}}][ConSciEnt]], an effort to learn more about how consciousness works and see what I can build from what I learn. Right now I'm focused on understanding free will in my [[{{< relref "/conscient/projects/vultolysis.org" >}}][Vultolysis]] project.
+I'm a staff software engineer at [[https://www.anduril.com][Anduril]], improving the core software platform that powers our products and development processes.
 
 I write longer-form sporadically on my [[{{< relref "/blog" >}}][blog]], and much shorter and less sporadically on [[https://twitter.com/shlevy][twitter]]. My username is ~shlevy~ on most sites.
 
-I live with my wife and two sons in Durham, NH.
+I live with my wife and three sons in Durham, NH.
